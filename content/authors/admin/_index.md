@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Université de Rennes 1
+    url: https://www.univ-rennes1.fr/
 education:
   courses:
     - course: PhD in Artificial Intelligence
