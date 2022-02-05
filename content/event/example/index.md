@@ -1,7 +1,7 @@
 --- 
 abstract: ""
 address: 35000
-city: Rennes
+city: "Rennes"
 country: France
 event: "Rennes seminar series"
 event_url: "https://jamesbehan.net"
