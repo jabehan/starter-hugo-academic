@@ -1,15 +1,15 @@
 ---
 title: Example Talk
 
-event: "" 
-event_url: ""
-location: ""
-address: ""
-  street: ""
-  city: ""
-  region: ""
- postcode: ""
-  country: ""
+event: Rennes seminar series
+event_url: https://jamesbehan.net
+location: Rennes
+address: 35000
+  street: 
+  city: 
+  region: 
+ postcode: 
+  country: France
 
 summary: ""
 abstract: ""
