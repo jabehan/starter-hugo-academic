@@ -1,10 +1,8 @@
 ---
-title: Bienvenue! My Marie Skłodowska-Curie BIENVENUE fellowship has officially started!
-subtitle: Welcome to the official page for my project, <i>Biogenic Nanoparticles Prepared from Bacterial Biofilms for Electrocatalytic and Fuel Cell Device
-Applications</i> - or just BioNanoCat, for short. 
+title:"Bienvenue! My Marie Skłodowska-Curie BIENVENUE fellowship has officially started!"
+subtitle:"Welcome to the official page for my project, <i>Biogenic Nanoparticles Prepared from Bacterial Biofilms for Electrocatalytic and Fuel Cell Device Applications</i> - or just BioNanoCat, for short." 
 # Summary for listings and search engines
-summary: Welcome to the official page for my project, <i>Biogenic Nanoparticles Prepared from Bacterial Biofilms for Electrocatalytic and Fuel Cell Device
-Applications</i> - or just BioNanoCat, for short. 
+summary: "Welcome to the official page for my project, <i>Biogenic Nanoparticles Prepared from Bacterial Biofilms for Electrocatalytic and Fuel Cell Device Applications</i> - or just BioNanoCat, for short." 
 
 # Link this post with a project
 projects: []
