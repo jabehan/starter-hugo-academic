@@ -1,19 +1,16 @@
----
-title: Example Talk
-
-event: Rennes seminar series
-event_url: https://jamesbehan.net
-location: Rennes
-address: 35000
-  street: 
-  city: 
-  region: 
- postcode: 
-  country: France
-
-summary: ""
+--- 
 abstract: ""
-
+address: 35000
+city: ~
+country: France
+event: "Rennes seminar series"
+event_url: "https://jamesbehan.net"
+location: Rennes
+postcode: ~
+region: ~
+street: ~
+summary: ""
+title: "Example Talk"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2030-06-01T13:00:00Z"
