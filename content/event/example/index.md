@@ -1,15 +1,15 @@
 --- 
 abstract: ""
 address: 35000
-city: ~
+city: Rennes
 country: France
 event: "Rennes seminar series"
 event_url: "https://jamesbehan.net"
 location: Rennes
-postcode: ~
-region: ~
-street: ~
-summary: ""
+postcode: 35000
+region: Brittany
+street: University of Rennes
+summary: "First Talk!"
 title: "Example Talk"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
