@@ -1,19 +1,18 @@
 ---
 title: Example Talk
 
-event: 
-event_url:
+event: "" 
+event_url: ""
+location: ""
+address: ""
+  street: ""
+  city: ""
+  region: ""
+ postcode: ""
+  country: ""
 
-location: 
-address:
-  street:
-  city:
-  region: 
- postcode:
-  country:
-
-summary: 
-abstract:
+summary: ""
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
