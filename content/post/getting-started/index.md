@@ -4,7 +4,7 @@ title: Bienvenue! My Marie Skłodowska-Curie BIENVENUE fellowship has officially
 subtitle: Welcome to the official page for my project, "Biogenic Nanoparticles
   Prepared from Bacterial Biofilms for Electrocatalytic and Fuel Cell Device
   Applications" or just BioNanoCat, for short.
-date: 2022-02-05T10:00:00Z
+date: 2022-02-05T10:00:00.000Z
 summary: Welcome to the official page for my project, <i>Biogenic Nanoparticles
   Prepared from Bacterial Biofilms for Electrocatalytic and Fuel Cell Device
   Applications</i> - or just BioNanoCat, for short.
@@ -12,7 +12,7 @@ draft: false
 featured: true
 authors:
   - James Behan
-lastmod: 2022-02-15T10:00:00Z
+lastmod: 2022-02-15T10:00:00.000Z
 tags:
   - Academic
   - null
@@ -25,7 +25,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: iscr.png
+  filename: featured.png
 ---
 ## License
 
