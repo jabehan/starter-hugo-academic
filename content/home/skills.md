@@ -22,4 +22,3 @@ title: Skills
 weight: 18
 widget: featurette
 widget_id: Skills
-
