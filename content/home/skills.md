@@ -19,8 +19,7 @@ feature:
 - description: 100%
   icon: python
   icon_pack: fas
-  name: Python Programming
- 
+  name: Python Programming 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
