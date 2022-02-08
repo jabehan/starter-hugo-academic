@@ -2,7 +2,7 @@
 widget: contact
 widget_id: RECENT-POSTS
 headless: true
-weight: 20
+weight: 60
 title: Contact
 subtitle: null
 active: true
