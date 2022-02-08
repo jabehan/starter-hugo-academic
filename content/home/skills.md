@@ -22,5 +22,6 @@ feature:
 design:
   background:
     image: python.svg
+    text_color_light: false
 ---
-Python
+Python Programming
