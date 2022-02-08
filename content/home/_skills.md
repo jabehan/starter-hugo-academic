@@ -1,21 +1,13 @@
 ---
-# An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
-
-# This file represents a page section.
+widget_id: Skills
 headless: true
-
-# Order that this section appears on the page.
-weight: 30
-
+weight: 18
 title: Skills
-subtitle:
-
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+subtitle: null
+active: true
 feature:
+<<<<<<< HEAD
 - description: 90%
   icon: r-project
   icon_pack: fab
@@ -44,4 +36,23 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+=======
+  - description: 90%
+    icon: r-project
+    icon_pack: fab
+    name: R
+  - description: 100%
+    icon: chart-line
+    icon_pack: fas
+    name: Statistics
+  - description: 10%
+    icon: camera-retro
+    icon_pack: fas
+    name: Photography
+design:
+  background:
+    image: python.svg
+    text_color_light: false
+>>>>>>> 44261fdcd1cd719f7e4d72d348a990eb230053e4
 ---
+Python Programming

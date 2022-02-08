@@ -1,21 +1,12 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I am a Marie Skłodowska-Curie Bienvenue Fellow at Université de Rennes 1. Working in the laboratory of Prof. Frédéric Barrière at the Institut des Sciences Chimiques de Rennes (ISCR), my research focuses on the development of biogenic transition metal electrocatalysts using biofilms of metal-sequestering bacteria.
+
+I previously worked as a postdoctoral researcher at the Centre for BioNano Interactions (CBNI) in the School of Chemistry, University College Dublin and as a postdoc and lecturer in Trinity College Dublin where I completed my PhD in physical chemistry with a focus on electrochemical and spectroscopic characterisation of nitrogenated carbon materials. I graduated top of my class with a Bachelor's Degree in Chemistry at Trinity in 2014.
