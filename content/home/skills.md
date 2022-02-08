@@ -2,7 +2,7 @@
 widget: featurette
 widget_id: Skills
 headless: true
-weight: 30
+weight: 18
 title: Skills
 subtitle: null
 active: true
@@ -19,5 +19,8 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+design:
+  background:
+    image: python.svg
 ---
-Electrochemical Analysis
+Python
