@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 widget: featurette
 widget_id: Skills
@@ -15,17 +14,17 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics 
+  name: Statistics
 - description: 100%
   icon: python
   icon_pack: fas
-  name: Python Programming 
+  name: Python Programming
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#  description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
