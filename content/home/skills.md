@@ -7,26 +7,32 @@ title: ""
 subtitle: null
 active: true
 feature:
-- description: 100%
+- description: Committed to Open Access Publishing
   icon: hal
   icon_pack: ai
   name: HAL
-- description: 100%
+- description: Trained in statistical analysis
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 100%
+- description:
   icon: python
   icon_pack: fab
   name: Python Programming
-- description: 100%
-  icon: python
-  icon_pack: fab
-  name: Python Programming
-- description: 100%
-  icon: vial
+- description:
+  icon: vials
   icon_pack: fab
   name: Chemistry
+- description:
+  icon: wave-pulse
+  icon_pack: fab
+  name: Electrochemistry
+- description:
+  icon: language
+  icon_pack: fab
+  name: Japanese (JLPT N4 certified)
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

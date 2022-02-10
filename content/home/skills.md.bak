@@ -2,23 +2,37 @@
 widget: featurette
 widget_id: Skills
 headless: true
-weight: 18
+weight: 25
 title: ""
 subtitle: null
 active: true
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
+- description: Committed to Open Access Publishing
+  icon: hal
+  icon_pack: ai
+  name: HAL
+- description: Trained in statistical analysis
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 100%
+- description:
   icon: python
   icon_pack: fab
   name: Python Programming
+- description: 
+  icon: vials
+  icon_pack: fab
+  name: Chemistry
+- description: 
+  icon: wave-pulse
+  icon_pack: fab
+  name: Electrochemistry
+- description: 
+  icon: language
+  icon_pack: fab
+  name: Japanese (JLPT N4 certified)
+  
+ 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
