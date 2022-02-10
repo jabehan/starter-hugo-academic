@@ -25,13 +25,13 @@ experience:
   - title: Marie Skłodowska-Curie Bienvenue Fellow
     company: Université de Rennes 1
     company_url: 'https://www.univ-rennes1.fr/'
-    company_logo:
+    company_logo: 
     location: Rennes, Brittany, France
     date_start: '2022-01-10'
     date_end: ''
     description: |2-
         Responsibilities include:
-
+        
         * Investigation of capacity of bacterial biofilms to synthesise novel electrocatalysts
         * Writing and publishing original research
         * Advising and supervising PhD candidates and other junior students
@@ -39,13 +39,13 @@ ht
   - title: Irish Research Council Postdoctoral Fellow
     company: Centre for BioNano Interactions, University College Dublin
     company_url: 'https://www.ucd.ie/cbni/'
-    company_logo:
+    company_logo: 
     location: Dublin
     date_start: '2019-04-10'
     date_end: '2021-11-10'
     description: |2-
         Responsibilities included:
-
+        
         * My project NANO-INT focused on the investigation of nanomaterial - biological system interactions
         * This involved a combination of nanoparticle synthesis and surface modification
         * Supervision of numerous PhD, Masters and Project Students
