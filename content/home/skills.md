@@ -2,15 +2,15 @@
 widget: featurette
 widget_id: Skills
 headless: true
-weight: 18
+weight: 25
 title: ""
 subtitle: null
 active: true
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
+- description: 100%
+  icon: hal
+  icon_pack: ai
+  name: HAL
 - description: 100%
   icon: chart-line
   icon_pack: fas
@@ -19,6 +19,14 @@ feature:
   icon: python
   icon_pack: fab
   name: Python Programming
+- description: 100%
+  icon: python
+  icon_pack: fab
+  name: Python Programming
+- description: 100%
+  icon: vial
+  icon_pack: fab
+  name: Chemistry
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
