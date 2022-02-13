@@ -21,15 +21,15 @@ feature:
   name: Python Programming
 - description:
   icon: vials
-  icon_pack: fab
+  icon_pack: "custom"
   name: Chemistry
 - description:
   icon: wave-pulse
-  icon_pack: fab
+  icon_pack: "custom"
   name: Electrochemistry
 - description:
   icon: language
-  icon_pack: fab
+  icon_pack: "custom"
   name: Japanese (JLPT N4 certified)
 
 
