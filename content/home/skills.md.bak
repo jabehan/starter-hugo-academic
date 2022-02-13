@@ -19,20 +19,20 @@ feature:
   icon: python
   icon_pack: fab
   name: Python Programming
-- description: 
+- description:
   icon: vials
   icon_pack: fab
   name: Chemistry
-- description: 
+- description:
   icon: wave-pulse
   icon_pack: fab
   name: Electrochemistry
-- description: 
+- description:
   icon: language
   icon_pack: fab
   name: Japanese (JLPT N4 certified)
-  
- 
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
