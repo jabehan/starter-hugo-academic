@@ -35,7 +35,6 @@ experience:
         * Investigation of capacity of bacterial biofilms to synthesise novel electrocatalysts
         * Writing and publishing original research
         * Advising and supervising PhD candidates and other junior students
-ht
   - title: Irish Research Council Postdoctoral Fellow
     company: Centre for BioNano Interactions, University College Dublin
     company_url: 'https://www.ucd.ie/cbni/'
