@@ -2,22 +2,22 @@
 widget: featurette
 widget_id: Skills
 headless: true
-weight: 25
+weight: 50
 title: ""
 subtitle: null
 active: true
 feature:
 - description: Committed to Open Access Publishing
   icon: hal
-  icon_pack: ai
+  icon_pack: "custom"
   name: HAL
 - description: Trained in statistical analysis
   icon: chart-line
-  icon_pack: fas
+  icon_pack: "custom"
   name: Statistics
 - description:
   icon: python
-  icon_pack: fab
+  icon_pack: "custom"
   name: Python Programming
 - description:
   icon: vials

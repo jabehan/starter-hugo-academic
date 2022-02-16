@@ -24,7 +24,7 @@ feature:
   icon_pack: "custom"
   name: Chemistry
 - description:
-  icon: wave-pulse
+  icon: wave-square
   icon_pack: "custom"
   name: Electrochemistry
 - description:
