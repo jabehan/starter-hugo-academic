@@ -66,3 +66,19 @@ You can see in the below image that the circle is not perfect - in particular th
 After you cut the membrane to size, insert it into the joiner on top of the o-ring. It should look like the photo below. If you have difficulty getting the membrane to stay flush with the o-ring, you need to trim the edges a little more. In particular if the membrane is 'bending' against the sides of the joiner, you won't get a good seal in the final assembly and it will more than likely leak. Trim the edges until it fits comfortably. Don't trim them too much, however, as this will leave enough space for a leak across the cells (and compromise your experiment). It is OK if you can see part of the o-ring beneath the membrane (as I can in the bottom right of the joiner in the photo below) but any more than this will result in a leak, at least in my experience.
 
 ![](20220304_091038-small-.jpg)
+
+## The Hardest Part: Screwing the Full Assembly
+
+Once you have screwed on the joiner, placed the o-ring and inserted the membrane, the hardest step is to screw on the second half of the cell. I recommend holding the glassware together from one side and 'turning' the joiner like screwing on a bottle cap. If you feel some resistance, verify that the whole assembly is perfectly straight before applying pressure. If you aren't careful you can force the glassware together at an angle. Then not only will it not seal properly, but you also will have a hard time unscrewing it again for a second try without breaking it. Basically, you need to screw it on straight, relatively tight, without disturbing the o-ring and membrane inside. I find that once it is close to tight enough, you can finish off tightening by turning the bottles themselves around ***once.* Don't push it! If it feels like you need to join a gym and lift weights to tighten it up, stop! You will more than likely just break the glass and have to start over again.** 
+
+![](20220304_093332-small-.jpg)
+
+Once you have assembled the cell, it's time to test your work. First, fill both bottles up to the same level with pure water and carefully inspect the join for leaks. If the seal is very poor (for reasons outlined above) it will more than likely leak immediately, and you can disassemble the cell and try again. However even if the assembly *doesn't* leak right away, a slow leak could still develop over time. For this reason I recommend placing the cell inside a basin on top of some tissue and leave it for at least 24 hours. You can mark the level of the water inside both bottles with a marker so that it will be obvious if the solution level drops below.
+
+Regardless of the type of fuel cell you will run, I recommend making use of ferricyanide solution at this stage as a means of checking the cell's integrity. Ferricyanide is often used as an electron acceptor in microbial fuel cells, but even if you intend to run your cell based on oxygen or to instead run it as an electrolysis cell, ferricyanide can be invaluable in diagnosing leaks or issues with the membrane before starting a long experiment.
+
+Choose one compartment as your cathode and label it as such. Fill it with ferricyanide solution (50 mM in buffer should be enough) and fill the anode compartment with the same buffer (minus ferricyanide) to avoid osmotic pressure issues. The assembly should look as below. The yellow color of aqueous ferricyanide is invaluable here, as it will be very obvious if there is a leak either out of the cell or from cathode to anode. After at least 24 hours (ideally slightly longer), use a 3 electrode setup with the working and reference electrode in the anode compartment and counter electrode in the cathode compartment. If there are no ferricyanide peaks found in the anode (about 0.2 V if using an Ag/AgCl reference) then your seal is probably acceptable and you can start your experiment. 
+
+![](20220304_094008-small-.jpg)
+
+![]()
