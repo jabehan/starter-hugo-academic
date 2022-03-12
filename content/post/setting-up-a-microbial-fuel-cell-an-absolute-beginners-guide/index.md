@@ -48,3 +48,21 @@ Start by screwing the joiner on to the port of one of the glass bottles. Take ca
 ![](20220304_090918-small-.jpg)
 
 Once you have screwed on the joiner, check that you can easily insert the o ring in the middle. It should fit snugly inside the joiner on top of the glass, as pictured above. If there are any noticeable gaps or evidence of a poor seal (e.g. if you are re-using an old o-ring or joiner) *save yourself time later by replacing them now.* If the cell doesn't seal properly, you will have to disassemble everything later anyway.
+
+## The Membrane
+
+Below is an example of a proton exchange membrane that we use in our H-cells. We also have transparent Nafion membranes, which seem to be more common in the literature, but for illustration purposes I will stick with this one as it is easier to photograph!
+
+![](20220304_090544-small-.jpg)
+
+I recommend using the outer diameter of the o-ring as a template for cutting out the membrane. Try to cut out a circle which is slightly larger than this diameter, and then trim the edges.
+
+![](20220304_092105-small-.jpg)
+
+You can see in the below image that the circle is not perfect - in particular there is a jagged corner on the bottom that must be trimmed off with the scissors.
+
+![](20220304_090823-small-.jpg)
+
+After you cut the membrane to size, insert it into the joiner on top of the o-ring. It should look like the photo below. If you have difficulty getting the membrane to stay flush with the o-ring, you need to trim the edges a little more. In particular if the membrane is 'bending' against the sides of the joiner, you won't get a good seal in the final assembly and it will more than likely leak. Trim the edges until it fits comfortably. Don't trim them too much, however, as this will leave enough space for a leak across the cells (and compromise your experiment). It is OK if you can see part of the o-ring beneath the membrane (as I can in the bottom right of the joiner in the photo below) but any more than this will result in a leak, at least in my experience.
+
+![](20220304_091038-small-.jpg)
