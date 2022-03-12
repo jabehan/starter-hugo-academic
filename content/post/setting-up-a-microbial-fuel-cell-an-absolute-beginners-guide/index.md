@@ -81,4 +81,52 @@ Choose one compartment as your cathode and label it as such. Fill it with ferric
 
 ![](20220304_094008-small-.jpg)
 
-![]()
+## Some Finer Details
+
+At this point the 'hard' part is over, but there are still many things to think about for your fuel cell setup. In my case, we need the anodic compartment to be anaerobic, so the ports of the cell need to be tightly sealed with stoppers or septa like the one pictured below. These allow for inoculation of the solution with syringes or sparging with inert gas and (if new) keep a good seal after repeated use.
+
+![](20220304_094153-small-.jpg)
+
+For sealing off the top of the cell, I prefer to swap the typical screw cap with a disk shaped septum like the one below.
+
+![](20220304_094644-small-.jpg)
+
+This can be combined with an open top screw cap (below) or simply a regular screw cap with some holes drilled to allow for your electrode to fit inside.
+
+![](20220304_094700-small-.jpg)
+
+The septum + cap should look as below when assembled:
+
+![](20220304_094715-small-.jpg)
+
+You can be as creative as you want for the insertion of electrodes here. A simple solution is to simply pierce the septum with the electrode, as shown for the graphite rod below. However this may not allow for a good enough seal in the case of strictly anaerobic microbial fuel cells, or if trying to grow pure cultures. In that case waterproof contacts attached to wires may be preferable, or the septum can be replaced for another material (such as blue butyl stoppers used often in anaerobic culturing).
+
+![](20220304_094805-small-.jpg)
+
+For the reference electrode, a home made Ag/AgCl like the one below works well and can be left in the assembly for some time to monitor a long experiment reliably. It will periodically need to be reconditioned or replaced, but this can easily be evaluated using a standard probe such as ferricyanide. 
+
+![](20220304_095013-small-.jpg)
+
+Note how the reference below has been inserted into a septum and held in place with parafilm - this will allow the reference electrode to seal tightly onto the port and avoid it detaching from the septum and falling into the solution...not that that ever happened to me...
+
+![](20220304_095127-small-.jpg)
+
+## Checking the Resistance
+
+At this point  it is a good idea to check the resistance across the H-cell in your buffer using a voltmeter. Tens to hundreds of ohms in resistance is ideal, but even a few kOhm is acceptable. If you are reading high kOhms or MOhms in a reasonable buffer (such as PBS), you have a problem with your membrane or there is an air bubble in the joint. Try to agitate the cell (gently) and retest the resistance. If it doesn't drop, you will need to disassemble the cell and change the membrane. It is also a good idea to monitor this resistance periodically during your experiment - if it is a microbial fuel cell, colonisation of the membrane could increase the resistance across the cell, or a trapped bubble of gas could effectively close the circuit. Monitoring isn't too time consuming and can save time in the long run by catching these problems.
+
+## Closing the Circuit
+
+![](20220304_095312-small-.jpg)
+
+For microbial fuel cells, a typical means of completing the cell circuit is with an external resistor like the one above. You can match your resistor to the internal resistance of the cell measured with the voltmeter above, or just use a common value (like ~500-1000 ohms). Of course if you intend to control the anode potential with a potentiostat or otherwise apply a potential, this is unnecessary.
+
+## Here's One we Prepared Earlier...
+
+Below is a microbial fuel cell running with an anode colonised by exoelectrogenic bacteria fed with acetate running against a ferricyanide cathode. Both electrodes use a 10 mM phosphate buffer at pH close to 7. You can see a fairly typical open circuit potential of ~760 mv as measured with a voltmeter. The cell is kept at about 30 degrees in a water bath and protected from light with Al foil. A cell like this can be used for a variety of experiments for a long time, with only periodic monitoring of important parameters (like the internal resistance or the buffer pH) required to keep the system going. Also note that the cell is being degassed using Ar with an inlet and exhaust syringe - take care when sparging not to use too high of an overpressure of gas and to be sure you have an outlet before turning the gas on. Otherwise you might have septa flying across the lab...
+
+![](20220304_095513-small-.jpg)
+
+## Conclusion
+
+I hope that this simple guide was helpful to anyone just starting out assembling fuel cells. In the future, I may follow up with similar content about some of the points I glossed over here, or try to cover some of the fundamentals for a less technical or specialist audience. Stay tuned!
