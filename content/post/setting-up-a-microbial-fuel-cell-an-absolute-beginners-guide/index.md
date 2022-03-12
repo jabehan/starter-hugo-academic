@@ -31,6 +31,10 @@ Probably the most important part of the whole process is deciding on the type of
 
 ![](20220304_090508-small-.jpg)
 
-![]()
-
 I don't know the proper name for the above piece of kit that 'joins' the 2 cells together, but it is essentially like the blue twist caps pictured on the bottles, except with 2 sides and a hole in the centre. The idea is to simply twist both cells on to this 'joiner' via the lower port, forming the 'H-cell' shape. In our lab, we have also had some success with an alternative design which uses a flat cylindrical glass port on each bottle and a clamp to hold the cells together. I will focus on the screw cap design in this post, though, as I am more aware of its pitfalls!
+
+![](20220304_090832-small-.jpg)
+
+In order to use the 'double screw' connection type, you will need to form a seal between the glass bottles and the proton exchange membrane, so that the solution inside does not leak out of the fuel cell or cross over from one side to the other. We accomplish this using the O-ring pictured below, but you can also try with a more typical black vycor o-ring of the same diameter.
+
+![](20220304_090918-small-.jpg)
