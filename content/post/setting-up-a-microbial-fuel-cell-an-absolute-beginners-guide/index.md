@@ -33,8 +33,18 @@ Probably the most important part of the whole process is deciding on the type of
 
 I don't know the proper name for the above piece of kit that 'joins' the 2 cells together, but it is essentially like the blue twist caps pictured on the bottles, except with 2 sides and a hole in the centre. The idea is to simply twist both cells on to this 'joiner' via the lower port, forming the 'H-cell' shape. In our lab, we have also had some success with an alternative design which uses a flat cylindrical glass port on each bottle and a clamp to hold the cells together. I will focus on the screw cap design in this post, though, as I am more aware of its pitfalls!
 
+Before using the joiner, inspect the interior threads for any debris or defects. In particular if you are re-using an old joiner, rinse it well with millipore water (or at least distilled water) to remove any lingering salts remaining from buffer solutions. Anything blocking the threads will make it difficult to screw the glassware together and will cause headaches later.
+
 ![](20220304_090832-small-.jpg)
 
 In order to use the 'double screw' connection type, you will need to form a seal between the glass bottles and the proton exchange membrane, so that the solution inside does not leak out of the fuel cell or cross over from one side to the other. We accomplish this using the O-ring pictured below, but you can also try with a more typical black vycor o-ring of the same diameter.
 
+![](20220304_090905-small-.jpg)
+
+## Screw it on Straight!
+
+Start by screwing the joiner on to the port of one of the glass bottles. Take care to ensure that it is screwed on perfectly straight - with these screw assemblies, it is very easy to 'tighten' them without properly orienting the glass threads into the corresponding grooves on the cap. If that happens you are liable to either have a leaking fuel cell, or to break the glass assembly when trying to tighten it due to misalignment.
+
 ![](20220304_090918-small-.jpg)
+
+Once you have screwed on the joiner, check that you can easily insert the o ring in the middle. It should fit snugly inside the joiner on top of the glass, as pictured above. If there are any noticeable gaps or evidence of a poor seal (e.g. if you are re-using an old o-ring or joiner) *save yourself time later by replacing them now.* If the cell doesn't seal properly, you will have to disassemble everything later anyway.
