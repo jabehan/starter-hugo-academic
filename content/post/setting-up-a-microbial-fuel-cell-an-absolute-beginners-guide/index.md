@@ -23,4 +23,14 @@ Below is a preview of the end product - a fully assembled 'H type' fuel cell. Th
 
 ![Glass Bottle](20220304_090340-small-.jpg "CG Cell")
 
-Probably the most important part of the whole process is deciding on the type of glassware you are going to use. Above is a photo of one half of the H cell, which is formed based on a 250 mL borosilicate glass bottle. After a trip to the local glassblower, 3 ports were added to the bottle in addition to the bridge at the bottom for the H-cell assembly. I wanted 3 ports to have one space reserved for a reference electrode, one space reserved for introducing inert gas, and one final port to use for pumping out the cell contents. Looking back now, it might have been preferable to have this 3rd port placed lower on the glass bottle for ease of pumping - try to think about what your particular application will need (pH meter? thermometer? microelectrode probe?...) and come up with a design that suits.
+Probably the most important part of the whole process is deciding on the type of glassware you are going to use. Above is a photo of one half of the H cell, which is formed based on a 250 mL borosilicate glass bottle. After a trip to the local glassblower, 3 ports were added to the bottle in addition to the bridge at the bottom for the H-cell assembly. I wanted 3 ports to have one space reserved for a reference electrode, one space reserved for introducing inert gas, and one final port to use for pumping out the cell contents. Looking back now, it might have been preferable to have this 3rd port placed lower on the glass bottle for ease of pumping - try to think about what your particular application will need (pH meter? thermometer? microelectrode probe?...) and come up with a design that suits. 
+
+## Joining the Glassware
+
+![](20220304_090503-small-.jpg "Joiner?..")
+
+![](20220304_090508-small-.jpg)
+
+![]()
+
+I don't know the proper name for the above piece of kit that 'joins' the 2 cells together, but it is essentially like the blue twist caps pictured on the bottles, except with 2 sides and a hole in the centre. The idea is to simply twist both cells on to this 'joiner' via the lower port, forming the 'H-cell' shape. In our lab, we have also had some success with an alternative design which uses a flat cylindrical glass port on each bottle and a clamp to hold the cells together. I will focus on the screw cap design in this post, though, as I am more aware of its pitfalls!
