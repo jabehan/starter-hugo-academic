@@ -21,13 +21,13 @@ Below is a preview of the end product - a fully assembled 'H type' fuel cell. Th
 
 ## Glassware
 
-![Glass Bottle](20220304_090340-small-.jpg "CG Cell")
+![Glass Bottle](20220304_090340-small-.jpg "Cell Based on a Borosilicate Glass Bottle")
 
 Probably the most important part of the whole process is deciding on the type of glassware you are going to use. Above is a photo of one half of the H cell, which is formed based on a 250 mL borosilicate glass bottle. After a trip to the local glassblower, 3 ports were added to the bottle in addition to the bridge at the bottom for the H-cell assembly. I wanted 3 ports to have one space reserved for a reference electrode, one space reserved for introducing inert gas, and one final port to use for pumping out the cell contents. Looking back now, it might have been preferable to have this 3rd port placed lower on the glass bottle for ease of pumping - try to think about what your particular application will need (pH meter? thermometer? microelectrode probe?...) and come up with a design that suits. 
 
 ## Joining the Glassware
 
-![](20220304_090503-small-.jpg "Joiner?..")
+![](20220304_090503-small-.jpg "The 'joiner'")
 
 ![](20220304_090508-small-.jpg)
 
