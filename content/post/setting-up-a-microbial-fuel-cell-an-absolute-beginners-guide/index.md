@@ -2,7 +2,7 @@
 title: "Setting Up a Microbial Fuel Cell: An Absolute Beginner's Guide"
 subtitle: By a beginner, for beginners
 date: 2022-03-07T20:47:47.686Z
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
