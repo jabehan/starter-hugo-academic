@@ -2,7 +2,7 @@
 widget: about
 widget_id: Biography
 headless: true
-weight: 0
+weight: 1
 title: ""
 active: true
 author: admin
