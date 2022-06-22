@@ -42,9 +42,6 @@ education:
     - course: Nanodegree in Data Science with Python 
       institution: Udacity (Remote Learning Course)
       year: 2021
-    - course: Laureate of AMI Emergence Entrepeneurship Programme
-      institution: Deeptech Bretagne
-      year: 2022
 superuser: true
 highlight_name: true
 title: James Behan
