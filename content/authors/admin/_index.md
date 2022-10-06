@@ -52,4 +52,4 @@ email: ""
 ---
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/jb_cv_2022_oct.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
