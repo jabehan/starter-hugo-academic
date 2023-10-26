@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jabehan/
 organizations:
-  - name: Université de Rennes 1
+  - name: Institut des Sciences Chimiques de Rennes
     url: https://iscr.univ-rennes.fr/james-behan
 education:
   courses:
