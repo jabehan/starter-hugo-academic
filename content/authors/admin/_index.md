@@ -1,8 +1,8 @@
 ---
-role: Marie Skłodowska-Curie Postdoctoral Fellow
-bio: "I am a Marie Skłodowska-Curie Fellow at Université de Rennes 1. Working in the laboratory of Prof. Frédéric Barrière, my research focuses on the development of biogenic transition metal electrocatalysts using biofilms of metal-sequestering bacteria.
+role: Chargé de Recherche/Assistant Professor CNRS
+bio: "I am a Chargé de Recherche (Assistant Professor) based at the Institut des Sciences Chimiques de Rennes, France. My research focuses on the areas of nanomaterial electrochemistry, bioelectrochemistry and interfacial science for energy applications.
 
-I previously worked as a postdoctoral researcher at the Centre for BioNano Interactions (CBNI) in the School of Chemistry, University College Dublin and as a postdoc and lecturer in Trinity College Dublin where I completed my PhD in physical chemistry with a focus on electrochemical and spectroscopic characterisation of nitrogenated carbon materials. I completed my Bachelor's Degree in Chemistry at Trinity in 2014, when I graduated at the top of my class. 
+I previously worked as a Marie Curie fellow (Université de Rennes) and postdoctoral researcher at the Centre for BioNano Interactions (CBNI) in the School of Chemistry, University College Dublin and as a postdoc and lecturer in Trinity College Dublin where I completed my PhD in physical chemistry with a focus on electrochemical and spectroscopic characterisation of nitrogenated carbon materials. I completed my Bachelor's Degree in Chemistry at Trinity in 2014, when I graduated at the top of my class. 
 "
 interests:
   - Electrocatalysis
@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/jabehan/
 organizations:
   - name: Université de Rennes 1
-    url: https://www.univ-rennes1.fr/
+    url: https://iscr.univ-rennes.fr/james-behan
 education:
   courses:
     - course: PhD in Physical Chemistry

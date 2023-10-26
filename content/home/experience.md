@@ -37,7 +37,7 @@ experience:
     company_logo:
     location: Rennes, Brittany, France
     date_start: '2022-01-10'
-    date_end: ''
+    date_end: '2023-09-30'
     description: |2-
         Responsibilities include:
 
