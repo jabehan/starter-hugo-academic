@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Chargé de Recherche CNRS
+    company: Institut des Sciences Chimiques de Rennes, Université de Rennes 1
+    company_url: 'https://www.univ-rennes1.fr/'
+    company_logo:
+    location: Rennes, Brittany, France
+    date_start: '2022-01-10'
+    date_end: ''
+    description: |2-
+       
   - title: Marie Skłodowska-Curie Bienvenue Fellow
     company: Université de Rennes 1
     company_url: 'https://www.univ-rennes1.fr/'

@@ -49,7 +49,48 @@ experience:
         * This involved a combination of nanoparticle synthesis and surface modification
         * Supervision of numerous PhD, Masters and Project Students
         * Co-coordinator Bio-Nano Master's module with Prof. Kenneth Dawson (2019-2020)
+  - title: Lecturer in Physical Chemistry
+    company: School of Pharmacy, Trinity College Dublin
+    company_url: 'https://pharmacy.tcd.ie/'
+    company_logo:
+    location: Dublin
+    date_start: '2018-08-10'
+    date_end: '2019-04-10'
+    description: |2-
+        Responsibilities included:
 
+        * Designed and produced lecture series in thermodynamics aimed at applications in pharmacy
+        * ca. 100 students in 1st and 2nd year pharmacy
+        * 20 lecture contact hours in addition to tutorials, pre-exam sessions
+        * Prepared and set final exam questions and marking scheme
+  - title: Part-Time Lecturer, Introduction to Chemistry
+    company: School of Chemistry, Trinity College Dublin
+    company_url: 'https://chemistry.tcd.ie/'
+    company_logo:
+    location: Dublin
+    date_start: '2017-08-10'
+    date_end: '2019-04-10'
+    description: |2-
+        Description of work:
+
+        * Prepared and delivered lecture and tutorial series aimed at students new to the field
+        * Part time position held concomitantly with PhD and Physical Chemistry lecturing duties
+        * Multiple 1-2 H sessions/week with a dozen students per session
+        * Prepared multiple self-test and exam preparatory sessions, supplementary notes and worked problem examples
+  - title: PhD, Physical Chemistry
+    company: Laboratory of Prof. Paula E. Colavita, Trinity College Dublin
+    company_url: 'https://sites.google.com/site/colavitagroup/home'
+    company_logo:
+    location: Dublin
+    date_start: '2014-01-09'
+    date_end: '2018-01-09'
+    description: |2-
+        Description of work:
+
+        * Synthesis and investigation of carbon nanomaterials for electrocatalytic and electroanalytic applications
+        * Heteroatom doped nanocarbons for oxygen reduction
+        * Modifying carbon electrode interfaces for favourable bio-nano interactions
+        * Proficiency in variety of electrochemical, spectroscopic and optoelectronic characterisation techniques
 design:
   columns: '2'
 ---
