@@ -6,13 +6,14 @@ I previously worked as a Marie Curie fellow (Université de Rennes) and postdoct
 "
 interests:
   - Electrocatalysis
+  - Electroactive Bacteria
   - Nanomaterial Synthesis and Characterisation
   - Bio-Nano Interactions
   - Nanocarbon Electrochemistry
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: https://iscr.univ-rennes.fr/james-behan
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=tae1A2AAAAAJ&hl=en
@@ -23,7 +24,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jabehan/
 organizations:
-  - name: Université de Rennes 1
+  - name: Institut des Sciences Chimiques de Rennes
     url: https://iscr.univ-rennes.fr/james-behan
 education:
   courses:
@@ -48,8 +49,8 @@ education:
 superuser: true
 highlight_name: true
 title: James Behan
-email: ""
+email: "james.behan@univ-rennes.fr"
 ---
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
