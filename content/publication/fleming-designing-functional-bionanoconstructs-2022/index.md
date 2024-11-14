@@ -1,7 +1,7 @@
 ---
-title: "Designing Functional Bionanoconstructs for Effective In Vivo Targeting"
+title: "Designing Functional Bionanoconstructs for Effective emphIn Vivo Targeting"
 date: 2022-03-01
-publishDate: 2022-06-11T06:03:23.201782Z
+publishDate: 2024-11-14T18:43:45.996696Z
 authors: ["Aisling Fleming", "Lorenzo Cursi", "James A. Behan", "Yan Yan", "Zengchun Xie", "Laurent Adumeau", "Kenneth A. Dawson"]
 publication_types: ["2"]
 abstract: ""
