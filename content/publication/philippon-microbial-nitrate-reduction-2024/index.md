@@ -1,5 +1,5 @@
 ---
-title: "Microbial Nitrate Reduction Electro-Assisted by Exo-Electrogenic Reduction of Dioxygen with a emphPseudomonas Dominated Cathodic Biofilm"
+title: "Microbial Nitrate Reduction Electro-Assisted by Exo-Electrogenic Reduction of Dioxygen with a Pseudomonas Dominated Cathodic Biofilm"
 date: 2024-09-01
 publishDate: 2024-11-14T18:43:46.004692Z
 authors: ["Timothé Philippon", "James A. Behan", "Frédéric Barrière"]
