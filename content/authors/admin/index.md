@@ -6,6 +6,7 @@ I previously worked as a Marie Curie fellow (Université de Rennes) and postdoct
 "
 interests:
   - Electrocatalysis
+  - Electroactive Bacteria
   - Nanomaterial Synthesis and Characterisation
   - Bio-Nano Interactions
   - Nanocarbon Electrochemistry

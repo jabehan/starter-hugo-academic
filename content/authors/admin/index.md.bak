@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: https://iscr.univ-rennes.fr/james-behan
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=tae1A2AAAAAJ&hl=en
