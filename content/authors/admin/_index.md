@@ -4,7 +4,7 @@ bio: "I am a Chargé de Recherche (Assistant Professor) based at the Institut de
 
 I previously worked as a Marie Curie fellow (Université de Rennes) and postdoctoral researcher at the Centre for BioNano Interactions (CBNI) in the School of Chemistry, University College Dublin and as a postdoc and lecturer in Trinity College Dublin where I completed my PhD in physical chemistry with a focus on electrochemical and spectroscopic characterisation of nitrogenated carbon materials. I completed my Bachelor's Degree in Chemistry at Trinity in 2014, when I graduated at the top of my class. 
 "
-interests:
+research interests:
   - Electrocatalysis
   - Electroactive Bacteria
   - Nanomaterial Synthesis and Characterisation
@@ -48,9 +48,9 @@ education:
       year: 2022
 superuser: true
 highlight_name: true
-title: James Behan
+title: James A. Behan
 email: "james.behan@univ-rennes.fr"
 ---
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/cv.pdf">}}Curriculum Vitae{{< /staticref >}}.
