@@ -23,7 +23,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jabehan/
-  - icon:hal
 organizations:
   - name: Institut des Sciences Chimiques de Rennes
     url: https://iscr.univ-rennes.fr/james-behan
