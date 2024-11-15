@@ -53,4 +53,4 @@ email: "james.behan@univ-rennes.fr"
 ---
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
