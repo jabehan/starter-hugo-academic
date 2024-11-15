@@ -23,6 +23,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jabehan/
+  - icon:hal
 organizations:
   - name: Institut des Sciences Chimiques de Rennes
     url: https://iscr.univ-rennes.fr/james-behan
@@ -53,4 +54,4 @@ email: "james.behan@univ-rennes.fr"
 ---
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv.pdf">}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv.pdf" "newtab">}}Curriculum Vitae{{< /staticref >}}.
