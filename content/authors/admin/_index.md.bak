@@ -54,3 +54,4 @@ email: "james.behan@univ-rennes.fr"
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/cv.pdf" "newtab">}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="envelope" pack="fas" >}} Contact me at <james.behan@univ-rennes.fr> for questions and I am always looking for new collaborations!
