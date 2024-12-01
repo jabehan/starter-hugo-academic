@@ -22,7 +22,9 @@ design:
   view: 2
 ---
 
-I will be talking at the upcoming CHEMICY Workshop at the Ecole Nationale Superieur de Rennes on the use of the Differential Centrifugal Sedimentation technique for the versatile analysis of nano objects.
+I was invited to give a talk on the use of the **Differential Centrifugal Sedimentation** technique for nanoparticle sizing at the **CHEMICY Workshop** at the Ecole Nationale Superieur de Rennes on the 27/11/2024. 
+
+Great discussions were had in the follow up with colleagues in diverse areas from ice chemistry to geology. I am hoping to introduce this technique to a lot of colleagues in the coming months - stay tuned!
 
 *"Environmental and depollution applications of electroactive bacteria: from denitrification to iron bioremediation"*
 **September 2024: Invited Webinar for the ["French Group of Bioelectrochemistry"](https://www.bioelectrochimie.fr/)**
