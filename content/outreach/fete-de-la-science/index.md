@@ -1,8 +1,8 @@
 ---
 title: Fete de la Science
-date: 2024-02-09T22:22:34.741Z
+date: 2023-02-09T22:22:34.741Z
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
