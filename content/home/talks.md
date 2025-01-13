@@ -22,6 +22,8 @@ design:
   view: 2
 ---
 
+On the 13th of January 2025 I participated in the **CNRS MITI - Pollution et Dépollution Journée de Restitution** to present the first year of our project **MicroBaux - Clean Extraction of Iron from Bauxites with Microbial Fuel Cells.** I was happy to get quite a lot of interesting questions.
+
 I was invited to give a talk on the use of the **Differential Centrifugal Sedimentation** technique for nanoparticle sizing at the **CHEMICY Workshop** at the Ecole Nationale Superieur de Rennes on the 27/11/2024. 
 
 Great discussions were had in the follow up with colleagues in diverse areas from ice chemistry to geology. I am hoping to introduce this technique to a lot of colleagues in the coming months - stay tuned!
