@@ -1,6 +1,6 @@
 ---
-title: MITI 2024
-date: 2023-02-09T22:22:34.741Z
+title: Project MicroBaux Presented at the MITI Journée de Restitution 2025
+date: 2023-01-09T15:22:34.741Z
 draft: false
 featured: false
 image:
