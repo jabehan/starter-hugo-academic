@@ -1,7 +1,7 @@
 ---
 title: "Electrocatalysis at Nanocarbons: Model Systems and Applications in Energy Conversion"
 date: 2020-01-01
-publishDate: 2024-11-14T18:43:45.993698Z
+publishDate: 2025-04-01T07:19:20.146231Z
 authors: ["Carlota Domínguez", "James A Behan", "Paula E Colavita"]
 publication_types: ["2"]
 abstract: ""
