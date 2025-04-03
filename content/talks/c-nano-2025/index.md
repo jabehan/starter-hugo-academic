@@ -9,4 +9,4 @@ image:
   preview_only: false
 ---
 
-This march I will be presented at the C'Nano Conference in Paris on the **Characterisation of Biogenic Nanomaterials Produced by Electroactive Bacteria using Differential Centrifugal Sedimentation.** It was great to discuss the importance of good nanometrology with fellow researchers in nanoscale characterisation.
+This march I presented at the C'Nano Conference in Paris on the **Characterisation of Biogenic Nanomaterials Produced by Electroactive Bacteria using Differential Centrifugal Sedimentation.** It was great to discuss the importance of good nanometrology with fellow researchers in nanoscale characterisation.
