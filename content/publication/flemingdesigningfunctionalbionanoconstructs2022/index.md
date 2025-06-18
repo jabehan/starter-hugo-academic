@@ -14,5 +14,6 @@ tags: []
 projects: []
 math: true
 url: https://doi.org/10.1021/acs.bioconjchem.1c00546
+external: true
 
 ---
