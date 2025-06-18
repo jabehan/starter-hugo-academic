@@ -1,6 +1,6 @@
 ---
 id: behanBioinspiredElectropermeableGlycans2020
-title: 'Bioinspired Electro-Permeable Glycans on Carbon: {{Fouling}} Control for Sensing
+title: 'Bioinspired Electro-Permeable Glycans on Carbon: Fouling Control for Sensing
   in Complex Matrices'
 date: '2020-01-01'
 authors:

@@ -1,7 +1,7 @@
 ---
 id: philipponFeIIIOxide2023
-title: Fe({{III}}) Oxide Microparticles Modulate Extracellular Electron Transfer in
-  Anodic Biofilms Dominated by Bacteria of the {{Pelobacter}} Genus
+title: Fe(III) Oxide Microparticles Modulate Extracellular Electron Transfer in Anodic
+  Biofilms Dominated by Bacteria of the Pelobacter Genus
 date: '2023-01-01'
 authors:
 - Philippon, Timothé and Ait-Itto, Fatima-Zahra and Monfort, Alicia and Barrière,

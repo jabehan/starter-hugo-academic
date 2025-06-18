@@ -1,8 +1,7 @@
 ---
 id: potaElectrocatalyticHydrogenationUnsaturated2025
-title: 'Electrocatalytic Hydrogenation of Unsaturated Organics Using {{Mo}} and {{W}}
-  Porous Carbon-Encapsulated Nanostructures: Impact of Metal Type on Properties and
-  Performances'
+title: 'Electrocatalytic Hydrogenation of Unsaturated Organics Using Mo and W Porous
+  Carbon-Encapsulated Nanostructures: Impact of Metal Type on Properties and Performances'
 date: '2025-01-01'
 authors:
 - Pota, Filippo and de Oliveira, Maida Aysla Costa and Schröder, Christian and Rafferty,

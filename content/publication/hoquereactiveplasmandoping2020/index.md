@@ -1,7 +1,7 @@
 ---
 id: hoqueReactivePlasmaNDoping2020
-title: 'Reactive {{Plasma N-Doping}} of {{Amorphous Carbon Electrodes}}: {{Decoupling
-  Disorder}} and {{Chemical Effects}} on {{Capacitive}} and {{Electrocatalytic Performance}}'
+title: 'Reactive Plasma N-Doping of Amorphous Carbon Electrodes: Decoupling Disorder
+  and Chemical Effects on Capacitive and Electrocatalytic Performance'
 date: '2020-01-01'
 authors:
 - Hoque, Md and Behan, James A and Creel, James and Lunney, James G and Perova, Tatiana

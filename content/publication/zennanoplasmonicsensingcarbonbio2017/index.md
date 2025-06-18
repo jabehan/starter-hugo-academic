@@ -1,6 +1,6 @@
 ---
 id: zenNanoplasmonicSensingCarbonbio2017
-title: 'Nanoplasmonic Sensing at the Carbon-Bio Interface: {{Study}} of Protein Adsorption
+title: 'Nanoplasmonic Sensing at the Carbon-Bio Interface: Study of Protein Adsorption
   at Graphitic and Hydrogenated Carbon Surfaces'
 date: '2017-01-01'
 authors:

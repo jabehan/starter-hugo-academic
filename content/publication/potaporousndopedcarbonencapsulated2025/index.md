@@ -1,7 +1,7 @@
 ---
 id: potaPorousNDopedCarbonencapsulated2025
-title: Porous {{N-Doped Carbon-encapsulated Iron}} as {{Novel Catalyst Architecture}}
-  for the {{Electrocatalytic Hydrogenation}} of {{Benzaldehyde}}
+title: Porous N-Doped Carbon-encapsulated Iron as Novel Catalyst Architecture for
+  the Electrocatalytic Hydrogenation of Benzaldehyde
 date: '2025-01-01'
 authors:
 - Pota, Filippo and Costa de Oliveira, Maida A. and Schröder, Christian and Brunet

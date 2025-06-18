@@ -1,7 +1,7 @@
 ---
 id: behanElectrocatalysisNdopedCarbons2019
-title: 'Electrocatalysis of {{N-doped}} Carbons in the Oxygen Reduction Reaction as
-  a Function of {{pH}}: {{N-sites}} and Scaffold Effects'
+title: 'Electrocatalysis of N-doped Carbons in the Oxygen Reduction Reaction as a
+  Function of pH: N-sites and Scaffold Effects'
 date: '2019-01-01'
 authors:
 - Behan, James A. and Iannaci, Alessandro and Domínguez, Carlota and Stamatin, Serban

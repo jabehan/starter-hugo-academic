@@ -1,8 +1,7 @@
 ---
 id: behanUntanglingCooperativeEffects2019
-title: Untangling {{Cooperative Effects}} of {{Pyridinic}} and {{Graphitic Nitrogen
-  Sites}} at {{Metal-Free N-Doped Carbon Electrocatalysts}} for the {{Oxygen Reduction
-  Reaction}}
+title: Untangling Cooperative Effects of Pyridinic and Graphitic Nitrogen Sites at
+  Metal-Free N-Doped Carbon Electrocatalysts for the Oxygen Reduction Reaction
 date: '2019-01-01'
 authors:
 - Behan, James A. and Mates-Torres, Eric and Stamatin, Serban N. and Domínguez, Carlota

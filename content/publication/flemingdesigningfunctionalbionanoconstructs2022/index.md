@@ -1,7 +1,6 @@
 ---
 id: flemingDesigningFunctionalBionanoconstructs2022
-title: Designing {{Functional Bionanoconstructs}} for {{Effective}} {{{\emph{In Vivo}}}}
-  {{Targeting}}
+title: Designing Functional Bionanoconstructs for Effective \emphIn Vivo Targeting
 date: '2022-01-01'
 authors:
 - Fleming, Aisling and Cursi, Lorenzo and Behan, James A. and Yan, Yan and Xie, Zengchun

@@ -1,6 +1,6 @@
 ---
 id: behanElectrochemistryElementsIron2024
-title: Electrochemistry of Elements | {{Iron}}
+title: Electrochemistry of Elements | Iron
 date: '2024-01-01'
 authors:
 - Behan, James A. and Barrière, Frédéric

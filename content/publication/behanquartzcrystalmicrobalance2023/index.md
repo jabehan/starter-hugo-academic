@@ -1,7 +1,7 @@
 ---
 id: behanQuartzCrystalMicrobalance2023
-title: Quartz {{Crystal Microbalance Method}} to {{Measure Nanoparticle}}–{{Receptor
-  Interactions}} and {{Evaluate Nanoparticle Design Efficiency}}
+title: Quartz Crystal Microbalance Method to Measure Nanoparticle–Receptor Interactions
+  and Evaluate Nanoparticle Design Efficiency
 date: '2023-01-01'
 authors:
 - Behan, James A. and Xie, Zengchun and Wang, Yi-Feng and Yang, Xiaoliang and Aastrup,

@@ -1,7 +1,7 @@
 ---
 id: philipponMicrobialNitrateReduction2024
 title: Microbial Nitrate Reduction Electro-Assisted by Exo-Electrogenic Reduction
-  of Dioxygen with a {{{\emph{Pseudomonas}}}} Dominated Cathodic Biofilm
+  of Dioxygen with a \emphPseudomonas Dominated Cathodic Biofilm
 date: '2024-01-01'
 authors:
 - Philippon, Timothé and Behan, James A. and Barrière, Frédéric

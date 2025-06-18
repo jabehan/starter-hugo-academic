@@ -1,7 +1,7 @@
 ---
 id: behanEffectsPolydopamineIncorporation2024
-title: Effects of {{Polydopamine Incorporation}} on the {{Nanostructure}} and {{Electrochemical
-  Performance}} of {{Electrodeposited Polypyrrole Films}}
+title: Effects of Polydopamine Incorporation on the Nanostructure and Electrochemical
+  Performance of Electrodeposited Polypyrrole Films
 date: '2024-01-01'
 authors:
 - Behan, James A. and Barrière, Frédéric

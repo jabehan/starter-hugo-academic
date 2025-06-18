@@ -1,7 +1,7 @@
 ---
 id: deoliveiraSingleEntityElectrochemistryNDoped2025
-title: Single-{{Entity Electrochemistry}} of {{N-Doped Graphene Oxide Nanostructures}}
-  for {{Improved Kinetics}} of {{Vanadyl Oxidation}}
+title: Single-Entity Electrochemistry of N-Doped Graphene Oxide Nanostructures for
+  Improved Kinetics of Vanadyl Oxidation
 date: '2025-01-01'
 authors:
 - de Oliveira, Maida Aysla Costa and Brunet Cabré, Marc and Schröder, Christian and

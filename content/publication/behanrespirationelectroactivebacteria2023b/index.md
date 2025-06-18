@@ -1,6 +1,6 @@
 ---
 id: behanRespirationElectroactiveBacteria2023b
-title: 'Respiration in {{Electroactive Bacteria}}: {{Bioinorganic Aspects}}'
+title: 'Respiration in Electroactive Bacteria: Bioinorganic Aspects'
 date: '2023-01-01'
 authors:
 - Behan, James A. and Louro, Ricardo O. and Barrière, Frédéric

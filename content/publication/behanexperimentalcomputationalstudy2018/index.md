@@ -1,7 +1,7 @@
 ---
 id: behanExperimentalComputationalStudy2018
 title: Experimental and Computational Study of Dopamine as an Electrochemical Probe
-  of the Surface Nanostructure of Graphitized {{N-doped}} Carbon
+  of the Surface Nanostructure of Graphitized N-doped Carbon
 date: '2018-01-01'
 authors:
 - Behan, James A and Hoque, Md Khairul and Stamatin, Serban N and Perova, Tatiana

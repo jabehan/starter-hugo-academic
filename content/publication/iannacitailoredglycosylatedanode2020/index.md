@@ -1,6 +1,6 @@
 ---
 id: iannaciTailoredGlycosylatedAnode2020
-title: 'Tailored Glycosylated Anode Surfaces: {{Addressing}} the Exoelectrogen Bacterial
+title: 'Tailored Glycosylated Anode Surfaces: Addressing the Exoelectrogen Bacterial
   Community via Functional Layers for Microbial Fuel Cell Applications'
 date: '2020-01-01'
 authors:
