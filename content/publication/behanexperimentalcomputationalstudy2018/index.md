@@ -14,7 +14,7 @@ selected: false
 tags: []
 projects: []
 math: true
-url: https://doi.org/10.1021/acs.jpcc.8b05484
+url: '"https://doi.org/10.1021/acs.jpcc.8b05484"'
 external: true
 
 ---
