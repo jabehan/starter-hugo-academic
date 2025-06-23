@@ -15,7 +15,7 @@ selected: false
 tags: []
 projects: []
 math: true
-url: '"https://doi.org/10.1002/smll.202405220"'
+url_external: '"https://doi.org/10.1002/smll.202405220"'
 external: true
 
 ---

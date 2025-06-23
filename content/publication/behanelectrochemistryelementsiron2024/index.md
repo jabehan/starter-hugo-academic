@@ -13,7 +13,7 @@ selected: false
 tags: []
 projects: []
 math: true
-url: '"https://doi.org/10.1016/B978-0-323-96022-9.00214-0"'
+url_external: '"https://doi.org/10.1016/B978-0-323-96022-9.00214-0"'
 external: true
 
 ---
