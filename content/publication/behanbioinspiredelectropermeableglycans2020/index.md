@@ -14,7 +14,6 @@ selected: false
 tags: []
 projects: []
 math: true
-url: https://doi.org/10.1016/j.carbon.2019.11.020
 links:
 - name: Publisher
   url: https://doi.org/10.1016/j.carbon.2019.11.020

@@ -13,7 +13,6 @@ selected: false
 tags: []
 projects: []
 math: true
-url: https://doi.org/10.1021/acs.bioconjchem.1c00546
 links:
 - name: Publisher
   url: https://doi.org/10.1021/acs.bioconjchem.1c00546

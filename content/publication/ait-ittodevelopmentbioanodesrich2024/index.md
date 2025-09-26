@@ -13,7 +13,6 @@ selected: false
 tags: []
 projects: []
 math: true
-url: https://doi.org/10.1016/j.bioelechem.2023.108618
 links:
 - name: Publisher
   url: https://doi.org/10.1016/j.bioelechem.2023.108618

@@ -15,7 +15,6 @@ selected: false
 tags: []
 projects: []
 math: true
-url: https://doi.org/10.1002/smll.201902081
 links:
 - name: Publisher
   url: https://doi.org/10.1002/smll.201902081

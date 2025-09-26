@@ -14,7 +14,6 @@ selected: false
 tags: []
 projects: []
 math: true
-url: https://doi.org/10.1021/acsabm.8b00266
 links:
 - name: Publisher
   url: https://doi.org/10.1021/acsabm.8b00266
