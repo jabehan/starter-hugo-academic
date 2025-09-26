@@ -9,7 +9,7 @@ authors:
 doi: 10.1039/d0na01035a
 publication: 'In: *Nanoscale Advances* 3'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

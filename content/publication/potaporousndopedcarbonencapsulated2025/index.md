@@ -10,7 +10,7 @@ authors:
 doi: 10.1002/cssc.202400546
 publication: 'In: *ChemSusChem* 18'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

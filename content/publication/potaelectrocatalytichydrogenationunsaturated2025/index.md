@@ -10,7 +10,7 @@ authors:
 doi: 10.1039/D4TA08953G
 publication: 'In: *Journal of Materials Chemistry A*'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

@@ -8,7 +8,7 @@ authors:
 doi: 10.1016/j.electacta.2024.144573
 publication: 'In: *Electrochimica Acta* 497'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

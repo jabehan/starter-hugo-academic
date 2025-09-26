@@ -8,7 +8,7 @@ authors:
 doi: 10.1021/acs.bioconjchem.1c00546
 publication: 'In: *Bioconjugate Chemistry* 33'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

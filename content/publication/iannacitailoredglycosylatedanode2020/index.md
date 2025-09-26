@@ -9,7 +9,7 @@ authors:
 doi: 10.1016/j.bioelechem.2020.107621
 publication: 'In: *Bioelectrochemistry* 136'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

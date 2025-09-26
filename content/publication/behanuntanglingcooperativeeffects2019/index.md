@@ -10,7 +10,7 @@ authors:
 doi: 10.1002/smll.201902081
 publication: 'In: *Small* 15'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

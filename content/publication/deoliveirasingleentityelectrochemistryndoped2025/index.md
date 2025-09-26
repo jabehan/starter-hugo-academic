@@ -10,7 +10,7 @@ authors:
 doi: 10.1002/smll.202405220
 publication: 'In: *Small* 21'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

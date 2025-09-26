@@ -9,7 +9,7 @@ authors:
 doi: 10.3389/fchem.2020.593932
 publication: 'In: *Frontiers in chemistry*'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

@@ -9,7 +9,7 @@ authors:
 doi: 10.1016/j.electacta.2019.02.103
 publication: 'In: *Electrochimica Acta* 304'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

@@ -8,7 +8,7 @@ authors:
 doi: 10.1021/acs.jpcc.6b10145
 publication: 'In: *The Journal of Physical Chemistry C* 121'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

@@ -9,7 +9,7 @@ authors:
 doi: 10.1021/jacsau.3c00084
 publication: 'In: *JACS Au* 3'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

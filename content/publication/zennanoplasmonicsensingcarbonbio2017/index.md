@@ -9,7 +9,7 @@ authors:
 doi: 10.1021/acs.langmuir.7b00612
 publication: 'In: *Langmuir* 33'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

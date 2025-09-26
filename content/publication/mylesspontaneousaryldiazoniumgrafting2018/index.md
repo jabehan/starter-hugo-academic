@@ -9,7 +9,7 @@ authors:
 doi: 10.1021/acsabm.8b00266
 publication: 'In: *ACS Applied Bio Materials* 1'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

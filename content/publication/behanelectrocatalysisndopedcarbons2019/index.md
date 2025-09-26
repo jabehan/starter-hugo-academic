@@ -10,7 +10,7 @@ authors:
 doi: 10.1016/j.carbon.2019.03.052
 publication: 'In: *Carbon* 148'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []

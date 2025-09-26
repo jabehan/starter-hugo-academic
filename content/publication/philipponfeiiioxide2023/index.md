@@ -9,7 +9,7 @@ authors:
 doi: 10.1016/j.bioelechem.2023.108394
 publication: 'In: *Bioelectrochemistry* 151'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
