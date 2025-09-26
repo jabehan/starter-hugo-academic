@@ -15,6 +15,8 @@ tags: []
 projects: []
 math: true
 url: https://doi.org/10.1021/jacsau.3c00084
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1021/jacsau.3c00084
 
 ---

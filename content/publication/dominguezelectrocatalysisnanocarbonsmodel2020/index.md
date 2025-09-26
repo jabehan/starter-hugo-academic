@@ -14,6 +14,8 @@ tags: []
 projects: []
 math: true
 url: https://doi.org/10.1002/9781119468288.ch7
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1002/9781119468288.ch7
 
 ---
