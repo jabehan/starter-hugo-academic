@@ -13,7 +13,7 @@ selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1021/acs.jpcc.6b10145"'
+url: https://doi.org/10.1021/acs.jpcc.6b10145
 external: true
 
 ---

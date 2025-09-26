@@ -317,7 +317,8 @@
   url = {https://pubs.rsc.org/en/content/articlelanding/2025/ta/d4ta08953g},
   urldate = {2025-03-21},
   abstract = {Electrocatalytic hydrogenation (ECH) of organics of biomass origin represents a promising strategy to enable integration of renewables and circular economy practices. However, most electrocatalysts investigated for ECH remain largely based on precious metals. Nanostructured materials based on transition metals encapsulated in a nitrogenated carbon matrix (M@C:N) offer a promising alternative. Herein, we report on the synthesis of Mo@C:N and W@C:N composites that display the same metal atomic concentrations and thus allow for a comparative study of the effect of the metal center identity on the properties of such heterostructured materials and their performance in the ECH of benzaldehyde, a diagnostic organic substrate. A combination of structural characterization methods indicates that the type of metal impacts carbon porosity and metal surface concentration in the synthesized structures. W displays a higher tendency to yield encapsulated nanoparticles compared to Mo, which is instead present with surface excess but at predominantly high oxidation states. Electrolysis studies at varying potentials demonstrate high product rates of benzaldehyde hydrogenation, with good selectivity for the production of the corresponding alcohol vs the dimerization side product. Turnover frequency (TOF) estimates under the operational conditions tested suggest that replacing Mo-centers with W-centers in M@C:N architectures improves overall performance. A comparison of performance indicators with those for Pt-group metals suggests that W@C:N could be a competitive material for practical implementations of ECH.},
-  langid = {english}
+  langid = {english},
+  file = {D\:\\Home\\jbehan\\Zotero\\Donnees\\storage\\628QBBKD\\Pota et al. - 2025 - Electrocatalytic hydrogenation of unsaturated orga.pdf;D\:\\Home\\jbehan\\Zotero\\Donnees\\storage\\GW2SGWHM\\Pota et al. - 2025 - Electrocatalytic hydrogenation of unsaturated orga.pdf}
 }
 
 @article{potaPorousNDopedCarbonencapsulated2025,
@@ -337,23 +338,6 @@
   langid = {english},
   keywords = {benzaldehyde,biomass,electrocatalysis,electrocatalytic hydrogenation,sustainable chemistry},
   file = {D\:\\Home\\jbehan\\Zotero\\Donnees\\storage\\4A5C7WC9\\Pota et al. - 2025 - Porous N-Doped Carbon-encapsulated Iron as Novel C.pdf;D\:\\Home\\jbehan\\Zotero\\Donnees\\storage\\WD5CCI83\\cssc.html}
-}
-
-@article{rousRecentAdvancesPerspectives2026,
-  title = {Recent Advances and Perspectives on N2 Fixation by Microbial Bioelectrochemical Systems},
-  author = {Rous, Axel and Behan, James A. and {Desmond-Le Quéméner}, Elie and Bernet, Nicolas and Trably, Eric and Gloaguen, Frédéric and Barrière, Frédéric},
-  year = {2026},
-  month = mar,
-  journal = {Bioelectrochemistry},
-  volume = {168},
-  pages = {109123},
-  issn = {1567-5394},
-  doi = {10.1016/j.bioelechem.2025.109123},
-  url = {https://www.sciencedirect.com/science/article/pii/S1567539425002269},
-  urldate = {2025-09-26},
-  abstract = {This review covers recent advances in the fixing of dinitrogen in microbial bioelectrochemical systems (BES) where bacteria release or accept electron to/from electrodes for their respiratory metabolism, either directly or indirectly. We discuss how BES may be interesting platforms for producing ammonium or biomass from N2 fixation. The potential for N2-fixation in BES is first discussed with a focus on possible metabolism and different mechanism that may lead to an increase of fixed dinitrogen. We then review recent examples where dinitrogen is fixed at the cathodes of BES, either by pure cultures of hydrogenotrophic and/or diazotrophic bacteria using cathodic H2 or reduced redox mediators as the electron, or by mixed enriched consortia. A section is then devoted to the special case of nitrogen fixation at anodic microbial electrode where organic matter oxidation also occurs. Finally, a comparison of the reported current performance of nitrogen fixation in BES with other biotic (anerobic digestion) or abiotic (Haber-Bosch process, electrochemical N2 reduction) is provided together with a perspective on possible optimization and application of this emerging microbial electrochemical and technological process.},
-  keywords = {Electroactive bacteria,Haber-Bosch process,Microbial bioelectrochemical systems,Microbial electrolysis cell,Microbial fuel cell,N fixation},
-  file = {D\:\\Home\\jbehan\\Zotero\\Donnees\\storage\\BVIXASMX\\Rous et al. - 2026 - Recent advances and perspectives on N2 fixation by microbial bioelectrochemical systems.pdf;D\:\\Home\\jbehan\\Zotero\\Donnees\\storage\\KSN3W6A3\\S1567539425002269.html}
 }
 
 @article{sheridanUnderstandingIntracellularNanoparticle2021,

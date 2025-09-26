@@ -36,6 +36,10 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+security:
+  funcs:
+    getenv:
+      - "^WC_"
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'

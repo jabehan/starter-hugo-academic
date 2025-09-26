@@ -1,5 +1,5 @@
 ---
-id: behanRespirationElectroactiveBacteria2023b
+id: behanRespirationElectroactiveBacteria2023
 title: 'Respiration in Electroactive Bacteria: Bioinorganic Aspects'
 date: '2023-01-01'
 authors:
@@ -12,7 +12,7 @@ selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1002/9781119951438.eibc2792"'
+url: https://doi.org/10.1002/9781119951438.eibc2792
 external: true
 
 ---

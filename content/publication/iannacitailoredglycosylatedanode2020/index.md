@@ -14,7 +14,7 @@ selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1016/j.bioelechem.2020.107621"'
+url: https://doi.org/10.1016/j.bioelechem.2020.107621
 external: true
 
 ---
