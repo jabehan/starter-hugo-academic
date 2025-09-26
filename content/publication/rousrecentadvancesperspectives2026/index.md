@@ -2,7 +2,7 @@
 id: rousRecentAdvancesPerspectives2026
 title: Recent Advances and Perspectives on N2 Fixation by Microbial Bioelectrochemical
   Systems
-date: '2026-01-01'
+date: '2025-01-01'
 authors:
 - Rous, Axel and Behan, James A. and Desmond-Le Quéméner, Elie and Bernet, Nicolas
   and Trably, Eric and Gloaguen, Frédéric and Barrière, Frédéric
