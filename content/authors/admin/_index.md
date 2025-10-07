@@ -49,7 +49,10 @@ title: James A. Behan
 email: "james.behan@univ-rennes.fr"
 ---
 
-Welcome to the homepage for the lab of Dr James A. Behan, Chargé de Recherche CNRS. I am a researcher working at the interface of electrochemistry, nanomaterials and microbiology for applications in catalysis, green synthesis of novel materials and advancing our understanding of bio-nano interactions. 
+Welcome to the homepage for the lab of Dr James A. Behan, Chargé de Recherche CNRS. 
+
+I am a researcher working at the interface of electrochemistry, nanomaterials and microbiology for applications in catalysis, green synthesis of novel materials and advancing our understanding of bio-nano interactions. 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/cv.pdf" "newtab">}}Curriculum Vitae{{< /staticref >}}.
 
 {{< icon name="envelope" pack="fas" >}} Contact me at <james.behan@univ-rennes.fr> for questions. I am always looking for new collaborations!
