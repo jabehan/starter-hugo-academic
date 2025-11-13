@@ -8,12 +8,13 @@ authors:
 doi: 10.3390/c10010020
 publication: 'In: *C* 10'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.3390/c10010020"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.3390/c10010020
 
 ---

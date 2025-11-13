@@ -10,12 +10,13 @@ authors:
 doi: 10.1016/j.cej.2025.169515
 publication: 'In: *Chemical Engineering Journal*'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1016/j.cej.2025.169515"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1016/j.cej.2025.169515
 
 ---

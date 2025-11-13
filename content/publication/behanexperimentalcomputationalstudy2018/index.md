@@ -9,12 +9,13 @@ authors:
 doi: 10.1021/acs.jpcc.8b05484
 publication: 'In: *The Journal of Physical Chemistry C* 122'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1021/acs.jpcc.8b05484"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1021/acs.jpcc.8b05484
 
 ---

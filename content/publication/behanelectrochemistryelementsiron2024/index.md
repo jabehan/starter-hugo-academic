@@ -8,12 +8,13 @@ doi: 10.1016/B978-0-323-96022-9.00214-0
 publication: 'In: *Reference Module in Chemistry, Molecular Sciences and Chemical
   Engineering*'
 publication_types:
-- '0'
+- 0
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1016/B978-0-323-96022-9.00214-0"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1016/B978-0-323-96022-9.00214-0
 
 ---

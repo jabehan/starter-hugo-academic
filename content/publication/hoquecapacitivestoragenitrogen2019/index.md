@@ -9,12 +9,13 @@ authors:
 doi: 10.1039/c8ra10187f
 publication: 'In: *RSC advances* 9'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1039/c8ra10187f"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1039/c8ra10187f
 
 ---

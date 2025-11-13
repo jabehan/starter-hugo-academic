@@ -10,12 +10,13 @@ authors:
 doi: 10.1039/D4TA08953G
 publication: 'In: *Journal of Materials Chemistry A*'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1039/D4TA08953G"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1039/D4TA08953G
 
 ---

@@ -9,12 +9,13 @@ authors:
 doi: 10.1016/j.bioelechem.2025.109123
 publication: 'In: *Bioelectrochemistry* 168'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1016/j.bioelechem.2025.109123"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1016/j.bioelechem.2025.109123
 
 ---

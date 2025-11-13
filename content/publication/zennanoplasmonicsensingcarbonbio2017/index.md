@@ -9,12 +9,13 @@ authors:
 doi: 10.1021/acs.langmuir.7b00612
 publication: 'In: *Langmuir* 33'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1021/acs.langmuir.7b00612"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1021/acs.langmuir.7b00612
 
 ---

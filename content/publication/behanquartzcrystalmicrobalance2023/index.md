@@ -9,12 +9,13 @@ authors:
 doi: 10.1021/jacsau.3c00084
 publication: 'In: *JACS Au* 3'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1021/jacsau.3c00084"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1021/jacsau.3c00084
 
 ---

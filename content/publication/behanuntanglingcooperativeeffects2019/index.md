@@ -10,12 +10,13 @@ authors:
 doi: 10.1002/smll.201902081
 publication: 'In: *Small* 15'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1002/smll.201902081"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1002/smll.201902081
 
 ---

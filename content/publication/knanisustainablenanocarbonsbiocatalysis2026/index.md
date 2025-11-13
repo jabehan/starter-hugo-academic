@@ -10,12 +10,13 @@ authors:
 doi: 10.1016/j.carbon.2025.121053
 publication: 'In: *Carbon* 247'
 publication_types:
-- '1'
+- 1
 selected: false
 tags: []
 projects: []
 math: true
-url_external: '"https://doi.org/10.1016/j.carbon.2025.121053"'
-external: true
+links:
+- name: Publisher
+  url: https://doi.org/10.1016/j.carbon.2025.121053
 
 ---
