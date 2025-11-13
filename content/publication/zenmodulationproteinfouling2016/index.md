@@ -9,13 +9,12 @@ authors:
 doi: 10.1038/srep24840
 publication: 'In: *Scientific reports* 6'
 publication_types:
-- 1
+- '1'
 selected: false
 tags: []
 projects: []
 math: true
-links:
-- name: Publisher
-  url: https://doi.org/10.1038/srep24840
+url_external: '"https://doi.org/10.1038/srep24840"'
+external: true
 
 ---

@@ -10,13 +10,12 @@ authors:
 doi: 10.1002/cssc.202400546
 publication: 'In: *ChemSusChem* 18'
 publication_types:
-- 1
+- '1'
 selected: false
 tags: []
 projects: []
 math: true
-links:
-- name: Publisher
-  url: https://doi.org/10.1002/cssc.202400546
+url_external: '"https://doi.org/10.1002/cssc.202400546"'
+external: true
 
 ---

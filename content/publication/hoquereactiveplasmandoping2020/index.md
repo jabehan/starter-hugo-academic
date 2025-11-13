@@ -9,13 +9,12 @@ authors:
 doi: 10.3389/fchem.2020.593932
 publication: 'In: *Frontiers in chemistry*'
 publication_types:
-- 1
+- '1'
 selected: false
 tags: []
 projects: []
 math: true
-links:
-- name: Publisher
-  url: https://doi.org/10.3389/fchem.2020.593932
+url_external: '"https://doi.org/10.3389/fchem.2020.593932"'
+external: true
 
 ---

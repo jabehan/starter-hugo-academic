@@ -1,5 +1,5 @@
 ---
-id: rousRecentAdvancesPerspectives2026
+id: rousRecentAdvancesPerspectives2026a
 title: Recent Advances and Perspectives on N2 Fixation by Microbial Bioelectrochemical
   Systems
 date: '2026-01-01'
@@ -9,13 +9,12 @@ authors:
 doi: 10.1016/j.bioelechem.2025.109123
 publication: 'In: *Bioelectrochemistry* 168'
 publication_types:
-- 1
+- '1'
 selected: false
 tags: []
 projects: []
 math: true
-links:
-- name: Publisher
-  url: https://doi.org/10.1016/j.bioelechem.2025.109123
+url_external: '"https://doi.org/10.1016/j.bioelechem.2025.109123"'
+external: true
 
 ---

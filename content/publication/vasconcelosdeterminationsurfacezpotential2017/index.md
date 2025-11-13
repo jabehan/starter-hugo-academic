@@ -9,13 +9,12 @@ authors:
 doi: 10.1002/sia.6223
 publication: 'In: *Surface and Interface Analysis* 49'
 publication_types:
-- 1
+- '1'
 selected: false
 tags: []
 projects: []
 math: true
-links:
-- name: Publisher
-  url: https://doi.org/10.1002/sia.6223
+url_external: '"https://doi.org/10.1002/sia.6223"'
+external: true
 
 ---

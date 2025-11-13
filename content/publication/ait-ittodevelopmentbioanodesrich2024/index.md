@@ -8,13 +8,12 @@ authors:
 doi: 10.1016/j.bioelechem.2023.108618
 publication: 'In: *Bioelectrochemistry* 156'
 publication_types:
-- 1
+- '1'
 selected: false
 tags: []
 projects: []
 math: true
-links:
-- name: Publisher
-  url: https://doi.org/10.1016/j.bioelechem.2023.108618
+url_external: '"https://doi.org/10.1016/j.bioelechem.2023.108618"'
+external: true
 
 ---
