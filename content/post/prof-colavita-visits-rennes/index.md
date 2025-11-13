@@ -1,6 +1,6 @@
 ---
 title: Prof. Paula Colavita Visits Rennes!
-date: 2025-07-001T09:20:04.139Z
+date: 2025-07-01T09:20:04.139Z
 draft: false
 featured: true
 image:
