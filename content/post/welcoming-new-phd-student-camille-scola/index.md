@@ -1,11 +1,10 @@
 ---
 title: Welcoming New Phd Student Camille Scola!
-date: 2025-13-11T09:20:04.139Z
+date: 2025-13-11T09:21:04.139Z
 draft: false
 featured: true
 image:
   filename: featured
-  focal_point: Smart
   preview_only: false
 ---
 
