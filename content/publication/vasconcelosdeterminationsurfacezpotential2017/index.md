@@ -4,11 +4,8 @@ title: Determination of Surface ζ-Potential and Isoelectric Point of Carbon Sur
   Using Tracer Particle Suspensions
 date: '2017-01-01'
 authors:
-- Vasconcelos, Joana M
-- Zen, Federico
-- Stamatin, Serban N
-- Behan, James A
-- Colavita, Paula E
+- Vasconcelos, Joana M and Zen, Federico and Stamatin, Serban N and Behan, James A
+  and Colavita, Paula E
 doi: 10.1002/sia.6223
 publication: Surface and Interface Analysis, 49
 publication_types:

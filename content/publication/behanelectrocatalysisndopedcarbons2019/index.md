@@ -4,14 +4,9 @@ title: 'Electrocatalysis of N-Doped Carbons in the Oxygen Reduction Reaction as 
   Function of pH: N-Sites and Scaffold Effects'
 date: '2019-01-01'
 authors:
-- Behan, James A.
-- Iannaci, Alessandro
-- Domínguez, Carlota
-- Stamatin, Serban N.
-- Hoque, Md Khairul
-- Vasconcelos, Joana M.
-- Perova, Tatiana S.
-- Colavita, Paula E.
+- Behan, James A. and Iannaci, Alessandro and Domínguez, Carlota and Stamatin, Serban
+  N. and Hoque, Md Khairul and Vasconcelos, Joana M. and Perova, Tatiana S. and Colavita,
+  Paula E.
 doi: 10.1016/j.carbon.2019.03.052
 publication: Carbon, 148
 publication_types:

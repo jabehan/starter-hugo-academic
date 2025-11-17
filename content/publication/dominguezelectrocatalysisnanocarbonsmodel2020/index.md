@@ -4,9 +4,7 @@ title: 'Electrocatalysis at Nanocarbons: Model Systems and Applications in Energ
   Conversion'
 date: '2020-01-01'
 authors:
-- Domínguez, Carlota
-- Behan, James A
-- Colavita, Paula E
+- Domínguez, Carlota and Behan, James A and Colavita, Paula E
 doi: 10.1002/9781119468288.ch7
 publication: Nanocarbon Electrochemistry
 publication_types:

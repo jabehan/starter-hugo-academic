@@ -4,17 +4,9 @@ title: Challenges and Opportunities for the Production of Sustainable Active Spe
   for Redox Flow Batteries in Bioelectrochemical Systems
 date: '2025-01-01'
 authors:
-- Behan, James A.
-- Barrière, Frédéric
-- Geneste, Florence
-- Bodin, Charlotte
-- Vautier, Antoine
-- Guihéneuf, Solène
-- Colavita, Paula E.
-- Philips, Jo
-- Reiner, Johannes Eberhard
-- Tschulkow, Maxim
-- Nimmegeers, Philippe
+- Behan, James A. and Barrière, Frédéric and Geneste, Florence and Bodin, Charlotte
+  and Vautier, Antoine and Guihéneuf, Solène and Colavita, Paula E. and Philips, Jo
+  and Reiner, Johannes Eberhard and Tschulkow, Maxim and Nimmegeers, Philippe
 doi: 10.1016/j.cej.2025.169515
 publication: Chemical Engineering Journal
 publication_types:

@@ -4,9 +4,7 @@ title: Microbial Nitrate Reduction Electro-Assisted by Exo-Electrogenic Reductio
   of Dioxygen with a \emphPseudomonas Dominated Cathodic Biofilm
 date: '2024-01-01'
 authors:
-- Philippon, Timothé
-- Behan, James A.
-- Barrière, Frédéric
+- Philippon, Timothé and Behan, James A. and Barrière, Frédéric
 doi: 10.1016/j.electacta.2024.144573
 publication: Electrochimica Acta, 497
 publication_types:
