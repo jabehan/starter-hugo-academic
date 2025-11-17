@@ -1,0 +1,8 @@
+{{/* Force display ALL authors exactly as provided in front matter */}}
+{{- $authors := .Params.authors -}}
+{{- if $authors }}
+  {{- range $index, $author := $authors }}
+    {{- if $index }}, {{ end -}}
+    {{ $author }}
+  {{- end }}
+{{- end }}
