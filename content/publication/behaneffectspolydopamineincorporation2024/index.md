@@ -4,11 +4,14 @@ title: Effects of Polydopamine Incorporation on the Nanostructure and Electroche
   Performance of Electrodeposited Polypyrrole Films
 date: '2024-01-01'
 authors:
-- Behan, James A. and Barrière, Frédéric
+- Behan, James A.
+- Barrière, Frédéric
 doi: 10.3390/c10010020
-publication: 'In: *C* 10'
+publication: C, 10
 publication_types:
 - 1
+publication_short: C
+year: '2024'
 selected: false
 tags: []
 projects: []

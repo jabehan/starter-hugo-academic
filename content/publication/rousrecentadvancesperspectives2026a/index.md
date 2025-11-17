@@ -4,12 +4,19 @@ title: Recent Advances and Perspectives on N2 Fixation by Microbial Bioelectroch
   Systems
 date: '2026-01-01'
 authors:
-- Rous, Axel and Behan, James A. and Desmond-Le Quéméner, Elie and Bernet, Nicolas
-  and Trably, Eric and Gloaguen, Frédéric and Barrière, Frédéric
+- Rous, Axel
+- Behan, James A.
+- Desmond-Le Quéméner, Elie
+- Bernet, Nicolas
+- Trably, Eric
+- Gloaguen, Frédéric
+- Barrière, Frédéric
 doi: 10.1016/j.bioelechem.2025.109123
-publication: 'In: *Bioelectrochemistry* 168'
+publication: Bioelectrochemistry, 168
 publication_types:
 - 1
+publication_short: Bioelectrochemistry
+year: '2026'
 selected: false
 tags: []
 projects: []

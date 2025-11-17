@@ -4,12 +4,20 @@ title: Quartz Crystal Microbalance Method to Measure Nanoparticle–Receptor Int
   and Evaluate Nanoparticle Design Efficiency
 date: '2023-01-01'
 authors:
-- Behan, James A. and Xie, Zengchun and Wang, Yi-Feng and Yang, Xiaoliang and Aastrup,
-  Teodor and Yan, Yan and Adumeau, Laurent and Dawson, Kenneth A.
+- Behan, James A.
+- Xie, Zengchun
+- Wang, Yi-Feng
+- Yang, Xiaoliang
+- Aastrup, Teodor
+- Yan, Yan
+- Adumeau, Laurent
+- Dawson, Kenneth A.
 doi: 10.1021/jacsau.3c00084
-publication: 'In: *JACS Au* 3'
+publication: JACS Au, 3
 publication_types:
 - 1
+publication_short: JACS Au
+year: '2023'
 selected: false
 tags: []
 projects: []
