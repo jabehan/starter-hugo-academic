@@ -2,7 +2,7 @@
 id: behanChallengesOpportunitiesProduction2025
 title: Challenges and Opportunities for the Production of Sustainable Active Species
   for Redox Flow Batteries in Bioelectrochemical Systems
-date: '2025-02-01'
+date: '2025-01-01'
 authors:
 - Behan, James A.
 - Barrière, Frédéric
