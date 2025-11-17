@@ -4,8 +4,11 @@ title: Fe(III) Oxide Microparticles Modulate Extracellular Electron Transfer in 
   Biofilms Dominated by Bacteria of the Pelobacter Genus
 date: '2023-01-01'
 authors:
-- Philippon, Timothé and Ait-Itto, Fatima-Zahra and Monfort, Alicia and Barrière,
-  Frédéric and Behan, James A.
+- Philippon, Timothé
+- Ait-Itto, Fatima-Zahra
+- Monfort, Alicia
+- Barrière, Frédéric
+- Behan, James A.
 doi: 10.1016/j.bioelechem.2023.108394
 publication: Bioelectrochemistry, 151
 publication_types:

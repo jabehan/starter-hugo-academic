@@ -4,8 +4,12 @@ title: Influence of Carbon Nanostructure and Oxygen Moieties on Dopamine Adsorpt
   and Charge Transfer Kinetics at Glassy Carbon Surfaces
 date: '2019-01-01'
 authors:
-- Behan, James A. and Grajkowski, Filip and Jayasundara, Dilushan R. and Vilella-Arribas,
-  Laia and García-Melchor, Max and Colavita, Paula E.
+- Behan, James A.
+- Grajkowski, Filip
+- Jayasundara, Dilushan R.
+- Vilella-Arribas, Laia
+- García-Melchor, Max
+- Colavita, Paula E.
 doi: 10.1016/j.electacta.2019.02.103
 publication: Electrochimica Acta, 304
 publication_types:

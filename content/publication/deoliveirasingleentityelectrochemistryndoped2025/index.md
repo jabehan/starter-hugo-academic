@@ -4,9 +4,15 @@ title: Single-Entity Electrochemistry of N-Doped Graphene Oxide Nanostructures f
   Improved Kinetics of Vanadyl Oxidation
 date: '2025-01-01'
 authors:
-- de Oliveira, Maida Aysla Costa and Brunet Cabré, Marc and Schröder, Christian and
-  Nolan, Hugo and Pota, Filippo and Behan, James A. and Barrière, Frédéric and McKelvey,
-  Kim and Colavita, Paula E.
+- de Oliveira, Maida Aysla Costa
+- Brunet Cabré, Marc
+- Schröder, Christian
+- Nolan, Hugo
+- Pota, Filippo
+- Behan, James A.
+- Barrière, Frédéric
+- McKelvey, Kim
+- Colavita, Paula E.
 doi: 10.1002/smll.202405220
 publication: Small, 21
 publication_types:

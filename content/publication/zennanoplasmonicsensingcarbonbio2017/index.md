@@ -4,8 +4,13 @@ title: 'Nanoplasmonic Sensing at the Carbon-Bio Interface: Study of Protein Adso
   at Graphitic and Hydrogenated Carbon Surfaces'
 date: '2017-01-01'
 authors:
-- Zen, Federico and Karanikolas, Vasilios D and Behan, James A and Andersson, Jenny
-  and Ciapetti, Guido and Bradley, A Louise and Colavita, Paula E
+- Zen, Federico
+- Karanikolas, Vasilios D
+- Behan, James A
+- Andersson, Jenny
+- Ciapetti, Guido
+- Bradley, A Louise
+- Colavita, Paula E
 doi: 10.1021/acs.langmuir.7b00612
 publication: Langmuir, 33
 publication_types:

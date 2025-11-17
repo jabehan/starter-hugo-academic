@@ -4,8 +4,12 @@ title: Understanding Intracellular Nanoparticle Trafficking Fates through Spatio
   Resolved Magnetic Nanoparticle Recovery
 date: '2021-01-01'
 authors:
-- Sheridan, Emily and Vercellino, Silvia and Cursi, Lorenzo and Adumeau, Laurent and
-  Behan, James A and Dawson, Kenneth A
+- Sheridan, Emily
+- Vercellino, Silvia
+- Cursi, Lorenzo
+- Adumeau, Laurent
+- Behan, James A
+- Dawson, Kenneth A
 doi: 10.1039/d0na01035a
 publication: Nanoscale Advances, 3
 publication_types:
