@@ -10,7 +10,7 @@ authors:
 - Lunney, James G
 - Perova, Tatiana S
 - Colavita, Paula E
-- others
+- 'others, '
 doi: 10.3389/fchem.2020.593932
 publication: Frontiers in chemistry
 publication_types:

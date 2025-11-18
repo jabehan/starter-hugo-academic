@@ -1,0 +1,29 @@
+{{/* Override: Always show all authors exactly as given in front matter */}}
+
+<li class="publication-item">
+  {{- $authors := .Params.authors -}}
+  {{- if $authors }}
+    <span class="article-metadata li-cite-author">
+      {{- range $i, $author := $authors }}
+        {{- if gt $i 0 }}, {{ end -}}
+        {{ $author }}
+      {{- end }}
+    </span>
+  {{- end }}
+
+  {{- if .Params.date }}
+    ({{ .Params.date }})
+  {{- end }}
+
+  {{- if .Params.title }}
+    <span class="li-cite-title">{{ .Params.title }}</span>
+  {{- end }}
+
+  {{- if .Params.publication }}
+    , <span class="li-cite-publication">{{ .Params.publication }}</span>
+  {{- end }}
+
+  {{- if .Params.doi }}
+    , <a href="https://doi.org/{{ .Params.doi }}" target="_blank">doi:{{ .Params.doi }}</a>
+  {{- end }}
+</li>
