@@ -12,7 +12,7 @@ authors:
 - Rafferty, A.
 - Jeannin, O.
 - Camerel, F.
-- Behan, J.A.
+- '**Behan, J.A.**'
 - Barrière, F.
 - Colavita, P.E.
 doi: 10.1002/cssc.202400546

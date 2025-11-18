@@ -10,7 +10,7 @@ authors:
 - Rafferty, A.
 - Castro, C.D.
 - Rault, L.
-- Behan, J.A.
+- '**Behan, J.A.**'
 - Barrière, F.
 - Colavita, P.E.
 doi: 10.1039/D4TA08953G

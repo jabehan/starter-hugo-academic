@@ -7,7 +7,7 @@ authors:
 - Vasconcelos, J.M.
 - Zen, F.
 - Stamatin, S.N.
-- Behan, J.A.
+- '**Behan, J.A.**'
 - Colavita, P.E.
 doi: 10.1002/sia.6223
 publication: Surface and Interface Analysis, 49

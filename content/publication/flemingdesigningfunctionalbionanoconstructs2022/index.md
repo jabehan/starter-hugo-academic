@@ -5,7 +5,7 @@ date: '2022-01-01'
 authors:
 - Fleming, A.
 - Cursi, L.
-- Behan, J.A.
+- '**Behan, J.A.**'
 - Yan, Y.
 - Xie, Z.
 - Adumeau, L.

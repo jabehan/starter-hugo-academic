@@ -5,7 +5,7 @@ title: Recent Advances and Perspectives on N2 Fixation by Microbial Bioelectroch
 date: '2026-01-01'
 authors:
 - Rous, A.
-- Behan, J.A.
+- '**Behan, J.A.**'
 - Desmond-Le Quéméner, E.
 - Bernet, N.
 - Trably, E.

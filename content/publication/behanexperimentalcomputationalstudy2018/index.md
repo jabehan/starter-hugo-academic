@@ -4,7 +4,7 @@ title: Experimental and Computational Study of Dopamine as an Electrochemical Pr
   of the Surface Nanostructure of Graphitized N-Doped Carbon
 date: '2018-01-01'
 authors:
-- Behan, J.A.
+- '**Behan, J.A.**'
 - Hoque, M.K.
 - Stamatin, S.N.
 - Perova, T.S.

@@ -6,7 +6,7 @@ date: '2016-01-01'
 authors:
 - Zen, F.
 - Angione, M.D.
-- Behan, J.A.
+- '**Behan, J.A.**'
 - Cullen, R.J.
 - Duff, T.
 - Vasconcelos, J.M.

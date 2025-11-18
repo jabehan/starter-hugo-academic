@@ -5,7 +5,7 @@ title: Development of Bioanodes Rich in Exoelectrogenic Bacteria Using Iron-Rich
 date: '2024-01-01'
 authors:
 - Ait-Itto, F.
-- Behan, J.A.
+- '**Behan, J.A.**'
 - Martinez, M.
 - Barrière, F.
 doi: 10.1016/j.bioelechem.2023.108618

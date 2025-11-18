@@ -5,7 +5,7 @@ title: 'Capacitive Storage at Nitrogen Doped Amorphous Carbon Electrodes: Struct
 date: '2019-01-01'
 authors:
 - Hoque, M.K.
-- Behan, J.A.
+- '**Behan, J.A.**'
 - Stamatin, S.N.
 - Zen, F.
 - Perova, T.S.
