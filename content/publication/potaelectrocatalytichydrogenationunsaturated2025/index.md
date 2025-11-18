@@ -4,15 +4,15 @@ title: 'Electrocatalytic Hydrogenation of Unsaturated Organics Using Mo and W Po
   Carbon-Encapsulated Nanostructures: Impact of Metal Type on Properties and Performances'
 date: '2025-01-01'
 authors:
-- Pota, Filippo
-- de Oliveira, Maida Aysla Costa
-- Schröder, Christian
-- Rafferty, Aran
-- Castro, Clara De
-- Rault, Ludivine
-- Behan, James A.
-- Barrière, Frédéric
-- Colavita, Paula E.
+- Pota, F.
+- de Oliveira, M.A.C.
+- Schröder, C.
+- Rafferty, A.
+- Castro, C.D.
+- Rault, L.
+- Behan, J.A.
+- Barrière, F.
+- Colavita, P.E.
 doi: 10.1039/D4TA08953G
 publication: Journal of Materials Chemistry A
 publication_types:

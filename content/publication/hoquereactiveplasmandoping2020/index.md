@@ -4,12 +4,12 @@ title: 'Reactive Plasma N-Doping of Amorphous Carbon Electrodes: Decoupling Diso
   and Chemical Effects on Capacitive and Electrocatalytic Performance'
 date: '2020-01-01'
 authors:
-- Hoque, Md
-- Behan, James A
-- Creel, James
-- Lunney, James G
-- Perova, Tatiana S
-- Colavita, Paula E
+- Hoque, M.
+- Behan, J.A.
+- Creel, J.
+- Lunney, J.G.
+- Perova, T.S.
+- Colavita, P.E.
 - 'others, '
 doi: 10.3389/fchem.2020.593932
 publication: Frontiers in chemistry
