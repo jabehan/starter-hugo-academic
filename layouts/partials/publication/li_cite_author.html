@@ -1,0 +1,14 @@
+{{/* Override: Highlight the site owner in publications */}}
+{{- $adminName := site.GetPage "authors/admin/_index.md" | .Title -}}
+{{- $authors := .Params.authors -}}
+
+{{- if $authors }}
+  {{- range $i, $author := $authors }}
+    {{- if gt $i 0 }}, {{ end -}}
+    {{- if eq $author $adminName }}
+      <strong>{{ $author }}</strong>
+    {{- else }}
+      {{ $author }}
+    {{- end }}
+  {{- end }}
+{{- end }}
