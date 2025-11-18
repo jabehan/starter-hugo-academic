@@ -45,7 +45,7 @@ education:
       year: 2022
 superuser: true
 highlight_name: true
-title: Dr James A. Behan
+title: James A. Behan
 email: "james.behan@univ-rennes.fr"
 ---
 
