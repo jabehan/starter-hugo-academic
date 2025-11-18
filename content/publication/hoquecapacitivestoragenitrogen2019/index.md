@@ -4,12 +4,12 @@ title: 'Capacitive Storage at Nitrogen Doped Amorphous Carbon Electrodes: Struct
   and Chemical Effects of Nitrogen Incorporation'
 date: '2019-01-01'
 authors:
-- Hoque, M.K.
-- Behan, J.A.
-- Stamatin, S.N.
-- Zen, F.
-- Perova, T.S.
-- Colavita, P.E.
+- Hoque, Md Khairul
+- Behan, James A
+- Stamatin, Serban N
+- Zen, Federico
+- Perova, Tatiana S
+- Colavita, Paula E
 doi: 10.1039/c8ra10187f
 publication: RSC advances, 9
 publication_types:

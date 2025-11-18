@@ -4,11 +4,11 @@ title: Spontaneous Aryldiazonium Grafting for the Preparation of Functional Cycl
   Materials
 date: '2018-01-01'
 authors:
-- Myles, A.
-- Behan, J.A.
-- Twamley, B.
-- Colavita, P.E.
-- Scanlan, E.M.
+- Myles, Adam
+- Behan, James A
+- Twamley, Brendan
+- Colavita, Paula E
+- Scanlan, Eoin M
 doi: 10.1021/acsabm.8b00266
 publication: ACS Applied Bio Materials, 1
 publication_types:

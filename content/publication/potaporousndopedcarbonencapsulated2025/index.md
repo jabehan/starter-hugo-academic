@@ -4,17 +4,17 @@ title: Porous N-Doped Carbon-Encapsulated Iron as Novel Catalyst Architecture fo
   the Electrocatalytic Hydrogenation of Benzaldehyde
 date: '2025-01-01'
 authors:
-- Pota, F.
-- Costa de Oliveira, M.A.
-- Schröder, C.
-- Brunet Cabré, M.
-- Nolan, H.
-- Rafferty, A.
-- Jeannin, O.
-- Camerel, F.
-- Behan, J.A.
-- Barrière, F.
-- Colavita, P.E.
+- Pota, Filippo
+- Costa de Oliveira, Maida A.
+- Schröder, Christian
+- Brunet Cabré, Marc
+- Nolan, Hugo
+- Rafferty, Aran
+- Jeannin, Olivier
+- Camerel, Franck
+- Behan, James A.
+- Barrière, Frédéric
+- Colavita, Paula E.
 doi: 10.1002/cssc.202400546
 publication: ChemSusChem, 18
 publication_types:

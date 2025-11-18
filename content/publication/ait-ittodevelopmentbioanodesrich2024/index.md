@@ -4,10 +4,10 @@ title: Development of Bioanodes Rich in Exoelectrogenic Bacteria Using Iron-Rich
   Sediment Inoculum
 date: '2024-01-01'
 authors:
-- Ait-Itto, F.
-- Behan, J.A.
-- Martinez, M.
-- Barrière, F.
+- Ait-Itto, Fatima-Zahra
+- Behan, James A.
+- Martinez, Mathieu
+- Barrière, Frédéric
 doi: 10.1016/j.bioelechem.2023.108618
 publication: Bioelectrochemistry, 156
 publication_types:
