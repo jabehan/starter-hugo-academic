@@ -5,7 +5,7 @@ title: Microbial Nitrate Reduction Electro-Assisted by Exo-Electrogenic Reductio
 date: '2024-01-01'
 authors:
 - Philippon, T.
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Barrière, F.
 doi: 10.1016/j.electacta.2024.144573
 publication: Electrochimica Acta, 497

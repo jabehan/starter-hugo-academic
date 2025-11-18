@@ -3,7 +3,7 @@ id: behanCombinedOptoelectronicElectrochemical2017
 title: Combined Optoelectronic and Electrochemical Study of Nitrogenated Carbon Electrodes
 date: '2017-01-01'
 authors:
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Stamatin, S.N.
 - Hoque, M.K.
 - Ciapetti, G.

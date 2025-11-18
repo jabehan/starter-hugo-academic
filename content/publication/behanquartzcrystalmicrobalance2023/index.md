@@ -4,7 +4,7 @@ title: Quartz Crystal Microbalance Method to Measure Nanoparticle–Receptor Int
   and Evaluate Nanoparticle Design Efficiency
 date: '2023-01-01'
 authors:
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Xie, Z.
 - Wang, Y.
 - Yang, X.

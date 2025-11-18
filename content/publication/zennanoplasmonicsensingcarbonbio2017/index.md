@@ -6,7 +6,7 @@ date: '2017-01-01'
 authors:
 - Zen, F.
 - Karanikolas, V.D.
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Andersson, J.
 - Ciapetti, G.
 - Bradley, A.L.

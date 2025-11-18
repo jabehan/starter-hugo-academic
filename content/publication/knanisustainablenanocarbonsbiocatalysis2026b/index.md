@@ -13,7 +13,7 @@ authors:
 - Rault, L.
 - Costa De Oliveira, M.
 - Colavita, P.E.
-- '**Behan, J.A.**'
+- Behan, J.A.
 doi: 10.1016/j.carbon.2025.121053
 publication: Carbon, 247
 publication_types:

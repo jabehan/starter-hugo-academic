@@ -8,7 +8,7 @@ authors:
 - Ait-Itto, F.
 - Monfort, A.
 - Barrière, F.
-- '**Behan, J.A.**'
+- Behan, J.A.
 doi: 10.1016/j.bioelechem.2023.108394
 publication: Bioelectrochemistry, 151
 publication_types:

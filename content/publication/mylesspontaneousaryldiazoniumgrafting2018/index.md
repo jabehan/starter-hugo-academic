@@ -5,7 +5,7 @@ title: Spontaneous Aryldiazonium Grafting for the Preparation of Functional Cycl
 date: '2018-01-01'
 authors:
 - Myles, A.
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Twamley, B.
 - Colavita, P.E.
 - Scanlan, E.M.

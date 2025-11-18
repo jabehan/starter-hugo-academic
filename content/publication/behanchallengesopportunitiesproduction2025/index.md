@@ -4,7 +4,7 @@ title: Challenges and Opportunities for the Production of Sustainable Active Spe
   for Redox Flow Batteries in Bioelectrochemical Systems
 date: '2025-01-01'
 authors:
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Barrière, F.
 - Geneste, F.
 - Bodin, C.

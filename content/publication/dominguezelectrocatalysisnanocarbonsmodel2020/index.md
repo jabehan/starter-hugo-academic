@@ -5,7 +5,7 @@ title: 'Electrocatalysis at Nanocarbons: Model Systems and Applications in Energ
 date: '2020-01-01'
 authors:
 - Domínguez, C.
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Colavita, P.E.
 doi: 10.1002/9781119468288.ch7
 publication: Nanocarbon Electrochemistry

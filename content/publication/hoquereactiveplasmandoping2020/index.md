@@ -5,7 +5,7 @@ title: 'Reactive Plasma N-Doping of Amorphous Carbon Electrodes: Decoupling Diso
 date: '2020-01-01'
 authors:
 - Hoque, M.
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Creel, J.
 - Lunney, J.G.
 - Perova, T.S.

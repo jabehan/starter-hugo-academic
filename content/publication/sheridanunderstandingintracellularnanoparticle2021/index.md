@@ -8,7 +8,7 @@ authors:
 - Vercellino, S.
 - Cursi, L.
 - Adumeau, L.
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Dawson, K.A.
 doi: 10.1039/d0na01035a
 publication: Nanoscale Advances, 3

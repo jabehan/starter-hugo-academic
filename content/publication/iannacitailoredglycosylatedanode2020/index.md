@@ -7,7 +7,7 @@ authors:
 - Iannaci, A.
 - Myles, A.
 - Flinois, T.
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Barrière, F.
 - Scanlan, E.M.
 - Colavita, P.E.

@@ -9,7 +9,7 @@ authors:
 - Schröder, C.
 - Nolan, H.
 - Pota, F.
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Barrière, F.
 - McKelvey, K.
 - Colavita, P.E.

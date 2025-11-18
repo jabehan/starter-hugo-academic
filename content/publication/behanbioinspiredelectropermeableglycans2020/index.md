@@ -4,7 +4,7 @@ title: 'Bioinspired Electro-Permeable Glycans on Carbon: Fouling Control for Sen
   in Complex Matrices'
 date: '2020-01-01'
 authors:
-- '**Behan, J.A.**'
+- Behan, J.A.
 - Myles, A.
 - Iannaci, A.
 - Whelan, É.
