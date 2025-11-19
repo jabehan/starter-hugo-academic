@@ -1,4 +1,11 @@
 ---
+widget: pages
+type: showcase
+title: Featured Publication
+count: 1
+featured: true
+
+
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -38,5 +45,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Search through our papers by [filtering publications](./publication/).
 {{% /callout %}}
