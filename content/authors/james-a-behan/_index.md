@@ -43,7 +43,7 @@ education:
     - course: Laureate of AMI Emergence Entrepeneurship Programme
       institution: Deeptech Bretagne
       year: 2022
-superuser: true
+superuser: false
 highlight_name: true
 title: "James A. Behan"
 slug: "james-a-behan"
