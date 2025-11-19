@@ -61,4 +61,4 @@ I am a researcher working at the interface of electrochemistry, nanomaterials an
 
 {{< icon name="arrow-right" pack="fas" >}} Check out the most recent <a href="https://www.behanlab.com/#posts">news</a> from the team.
 
-{{< icon name="arrow-right" pack="fas" >}} See all of our <a href="https://www.behanlab.com/#posts">publications</a>
+{{< icon name="arrow-right" pack="fas" >}} See all of our <a href="https://www.behanlab.com/#publications">publications</a>
