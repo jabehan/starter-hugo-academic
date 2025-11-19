@@ -58,6 +58,6 @@ I am a researcher working at the interface of electrochemistry, nanomaterials an
 
 {{< icon name="envelope" pack="fas" >}} Contact me at <james.behan@univ-rennes.fr> for questions. I am always looking for new collaborations!
 
-{{< icon name="arrow-right-from-bracket" pack="fas" >}} Check out the most recent <a href="https://www.behanlab.com/#posts">News</a> from the team.
+{{< icon name="arrow-right" pack="fas" >}} Check out the most recent <a href="https://www.behanlab.com/#posts">News</a> from the team.
 
 
