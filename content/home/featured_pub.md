@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: hero
 type: showcase
 title: Featured Publication
 count: 1
