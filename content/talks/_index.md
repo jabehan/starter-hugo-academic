@@ -1,7 +1,7 @@
 ---
 title: Talks
 cms_exclude: true
-
+weight: 30
 # View.
 #   1 = List
 #   2 = Compact
