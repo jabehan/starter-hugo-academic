@@ -1,2 +1,23 @@
+{{/* Get name of primary author. */}}
+
+{{ $page := . }}
+
+{{/* Get publisher as fall back. */}}
+{{ $publisher := site.Params.org_name | default site.Title }}
+
+{{ $author := "" }}
+{{ $author_username := "" }}
+
+{{ if and (not $page.Params.authors) ($page.Scratch.Get "superuser_username") }}
+  {{ $author_username = $page.Scratch.Get "superuser_username" }}
+{{ else if $page.Params.authors }}
+  {{ $author = index $page.Params.authors 0 }}
+  {{ $author_username = urlize $author }}
+{{ end }}
+
+{{ $taxonomy := "authors" }}
 {{/* Do not attempt profile lookup, just use the author string */}}
 {{ $author = $author | default $publisher }}
+
+
+{{ return $author }}
