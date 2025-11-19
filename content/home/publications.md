@@ -1,11 +1,4 @@
 ---
-widget: pages
-type: showcase
-title: Featured Publication
-count: 1
-featured: true
-weight: 10
-
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
