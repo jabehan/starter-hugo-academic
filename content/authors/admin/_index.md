@@ -1,5 +1,4 @@
 ---
-<br></br>
 role: Chargé de Recherche/Assistant Professor CNRS
 bio: "I am a Chargé de Recherche (Assistant Professor) based at the Institut des Sciences Chimiques de Rennes, France. My research focuses on the areas of nanomaterial electrochemistry, bioelectrochemistry and interfacial science for energy applications.
 
@@ -50,6 +49,7 @@ title: James A. Behan
 email: "james.behan@univ-rennes.fr"
 ---
 
+<br></br>
 Welcome to the homepage for the lab of Dr James A. Behan, Chargé de Recherche CNRS. 
 
 I am a researcher working at the interface of electrochemistry, nanomaterials and microbiology for applications in catalysis, green synthesis of novel materials and advancing our understanding of bio-nano interactions. 
