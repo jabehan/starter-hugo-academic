@@ -2,7 +2,7 @@
 id: knaniSustainableNanocarbonsBiocatalysis2026b
 title: Sustainable Nanocarbons via Biocatalysis of C–F Bond Cleavage by Electroactive
   Bacteria
-date: '2026-01-01'
+date: '2025-01-01'
 authors:
 - Knani, Sarra
 - Boughezal, Riad Ahmed
@@ -21,6 +21,7 @@ publication_types:
 publication_short: Carbon
 year: '2026'
 selected: false
+featured: true
 tags: []
 projects: []
 math: true
