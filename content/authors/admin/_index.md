@@ -1,4 +1,5 @@
 ---
+<br></br>
 role: Chargé de Recherche/Assistant Professor CNRS
 bio: "I am a Chargé de Recherche (Assistant Professor) based at the Institut des Sciences Chimiques de Rennes, France. My research focuses on the areas of nanomaterial electrochemistry, bioelectrochemistry and interfacial science for energy applications.
 
